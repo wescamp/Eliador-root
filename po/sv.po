@@ -3,17 +3,18 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-07-25 14:58+0200\n"
-"PO-Revision-Date: 2005-07-25 14:58+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2005-07-29 20:30+0200\n"
+"Last-Translator: tephlon\n"
+"Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.10.1\n"
 
 #: Eliador.cfg:8
 msgid "Invasion of Eliador"
-msgstr ""
+msgstr "Eliadors Invasion"
 
 #: Eliador.cfg:11
 msgid ""
