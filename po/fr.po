@@ -1152,12 +1152,12 @@ msgstr "Da-doum... Da-doum... Da-doum..."
 
 #: Eliador/units/Eliador_Shark.cfg:36 Eliador/units/Kids_Sea_Serpent.cfg:20
 msgid "fangs"
-msgstr "crocs"
+msgstr "morsure"
 
 #: Eliador/units/Eliador_Shark.cfg:37 Eliador/units/Eliador_Witch.cfg:59
 #: Eliador/units/Kids_Sea_Serpent.cfg:21
 msgid "pierce"
-msgstr "transpercement"
+msgstr "perforant"
 
 #: Eliador/units/Eliador_Witch.cfg:4
 msgid "Witch"
@@ -1175,11 +1175,11 @@ msgstr "coup de balai"
 #: Eliador/units/Gryphon_Rider_Queen.cfg:26
 #: Eliador/units/Gryphon_Rider_Toddler.cfg:25
 msgid "blade"
-msgstr "lame"
+msgstr "tranchant"
 
 #: Eliador/units/Eliador_Witch.cfg:58
 msgid "curse"
-msgstr "malédiction"
+msgstr "maudit"
 
 #: Eliador/units/Eliador_Witch.cfg:63
 msgid "drain"
@@ -1197,7 +1197,7 @@ msgstr "choc"
 #: Eliador/units/Footpad_Toddler.cfg:27
 #: Eliador/units/Outlaw_Princess_Kid.cfg:27
 msgid "impact"
-msgstr "impact"
+msgstr "contondant"
 
 #: Eliador/units/Gryphon_Rider_Kid.cfg:4
 msgid "Eliador Gryphon Kid"
@@ -1211,7 +1211,7 @@ msgstr "Une jeune princesse hors-la-loi chevauchant un griffon."
 #: Eliador/units/Gryphon_Rider_Queen.cfg:25
 #: Eliador/units/Gryphon_Rider_Toddler.cfg:24
 msgid "claws"
-msgstr "crocs"
+msgstr "griffure"
 
 #: Eliador/units/Gryphon_Rider_Queen.cfg:4
 msgid "Eliador Gryphon Queen"
