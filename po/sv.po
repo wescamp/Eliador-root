@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-12 19:44+0200\n"
-"PO-Revision-Date: 2005-08-03 16:57+0200\n"
-"Last-Translator: tephlon\n"
+"PO-Revision-Date: 2005-10-16 16:13+0200\n"
+"Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,7 +18,7 @@ msgstr "Eliadors Invasion"
 
 #: Eliador.cfg:11
 msgid " (Version"
-msgstr ""
+msgstr " (Version"
 
 #: Eliador.cfg:11
 msgid ""
@@ -182,21 +182,28 @@ msgid ""
 "underestimated them. We must join them. Together, we can end our master's "
 "evil crusade."
 msgstr ""
+"Öborna har samlat ihop en stor armé. Vår mästare skulle inte ha underskattat "
+"dem. Vi måste förena oss med dem. Tillsammans kan vi hejda vår mästares onda "
+"korståg."
 
 #: Eliador/scenarios/eliador-balas.cfg:306
 msgid "Are you mad? If we betray our master, we will meet certain death."
 msgstr ""
+"Är du galen? Om vi förråder vår mästare så går vi en säker död till mötes."
 
 #: Eliador/scenarios/eliador-balas.cfg:311
 msgid ""
 "Aye, but we are defeated. Our master will most certainly slay us if we "
 "surrender to the islanders. If I am to die, then I choose to die with honor!"
 msgstr ""
+"Ja, men vi är besegrade. Vår mästare kommer alldeles säkert att dräpa oss om "
+"vi ger upp inför öborna. Om jag skall dö, så väljer jag att dö med hedern i "
+"behåll!"
 
 #: Eliador/scenarios/eliador-balas.cfg:316
 msgid ""
 "We will not surrender! All islanders and turncoats will die by my sword!"
-msgstr ""
+msgstr "Vi ger inte upp! Alla öbor och överlöpare skall dö för mitt svärd!"
 
 #: Eliador/scenarios/eliador-balas.cfg:372
 msgid ""
@@ -1010,7 +1017,6 @@ msgstr ""
 "jag bara skulle se på när mitt land blev invaderat?"
 
 #: Eliador/scenarios/eliador-varad.cfg:196
-#, fuzzy
 msgid ""
 "Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
 "see what you're made of!"
@@ -1088,14 +1094,12 @@ msgid "Platu! Verata! Bichtu!"
 msgstr "Platu! Verata! Bichtu!"
 
 #: Eliador/scenarios/eliador-varad.cfg:352
-#, fuzzy
 msgid ""
 "Now that I have freed you from the spell, go back to Zilead's territory. "
 "That is where the main invasion will take place."
 msgstr ""
 "Nu när jag har befriat er från besvärjelsen så att ni kan återvända till "
-"Zileads område. Det är där huvudinvasionen kommer att äga rum. Ardella, "
-"Zilead är..."
+"Zileads område. Det är där huvudinvasionen kommer att äga rum."
 
 #: Eliador/units/Eliador_Cockatrice.cfg:4
 msgid "Eliador Cockatrice"
@@ -1239,9 +1243,3 @@ msgstr "En sjöorm med ett stigmansbarn och en fredlös prinsessa."
 #: Eliador/units/Outlaw_Princess_Kid.cfg:4
 msgid "Outlaw Princess Kid"
 msgstr "Fredlös barnprinsessa"
-
-#~ msgid "Land of Zilead"
-#~ msgstr "Zileads land"
-
-#~ msgid "Randalf"
-#~ msgstr "Randalf"
