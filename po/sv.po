@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-01-01 19:17+0100\n"
-"PO-Revision-Date: 2005-10-16 16:13+0200\n"
+"PO-Revision-Date: 2006-01-23 20:31+0100\n"
 "Last-Translator: Stefan Bergström (tephlon)\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -989,13 +989,15 @@ msgstr "Därför att de tog min pappa!"
 
 #: Eliador/scenarios/eliador-utils.cfg:268
 msgid "Both of my children have perished! I have failed them!"
-msgstr ""
+msgstr "Båda min barn har gått under! Jag har svikit dem!"
 
 #: Eliador/scenarios/eliador-utils.cfg:318
 msgid ""
 "I have failed to protect my family. Let's go home, Anna. We shall await the "
 "coming invasion. We shall perish."
 msgstr ""
+"Jag har misslyckats med att skydda min familj. Vi återvänder hem, Anna. Vi "
+"skall invänta invasionen. Vi skall gå under."
 
 #: Eliador/scenarios/eliador-varad.cfg:5
 msgid "Randalf's Statues"
@@ -1195,42 +1197,3 @@ msgstr "En sjöorm med ett stigmansbarn och en fredlös prinsessa."
 #: Eliador/units/Outlaw_Princess_Kid.cfg:4
 msgid "Outlaw Princess Kid"
 msgstr "Fredlös barnprinsessa"
-
-#~ msgid "gaze"
-#~ msgstr "blick"
-
-#~ msgid "cold"
-#~ msgstr "frost"
-
-#~ msgid "stone"
-#~ msgstr "förstena"
-
-#~ msgid "gaze2"
-#~ msgstr "blick2"
-
-#~ msgid "fangs"
-#~ msgstr "huggtänder"
-
-#~ msgid "pierce"
-#~ msgstr "stick"
-
-#~ msgid "broom poke"
-#~ msgstr "peta med staven"
-
-#~ msgid "blade"
-#~ msgstr "hugg"
-
-#~ msgid "curse"
-#~ msgstr "förbannelse"
-
-#~ msgid "drain"
-#~ msgstr "suga livskraft"
-
-#~ msgid "bump"
-#~ msgstr "stöt"
-
-#~ msgid "impact"
-#~ msgstr "kross"
-
-#~ msgid "claws"
-#~ msgstr "klor"
