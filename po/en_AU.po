@@ -1,0 +1,1195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2006-01-01 19:17+0100\n"
+"PO-Revision-Date: 2006-01-01 19:17+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Eliador.cfg:8 Eliador/scenarios/eliador-home.cfg:5
+msgid "Invasion of Eliador"
+msgstr "Invasion of Eliador"
+
+#: Eliador.cfg:11
+msgid " (Version"
+msgstr " (Version"
+
+#: Eliador.cfg:11
+msgid ""
+"A peaceful island is about to be invaded by unknown foes travelling towards "
+"the eastern shore. It is up to a family of outlaws to warn the island's "
+"inhabitants before it's too late."
+msgstr ""
+"A peaceful island is about to be invaded by unknown foes travelling towards "
+"the eastern shore. It is up to a family of outlaws to warn the island's "
+"inhabitants before it's too late."
+
+#: Eliador.cfg:16
+msgid ""
+"&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-outlaw-"
+"queen.png=Hard"
+msgstr ""
+"&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-outlaw-"
+"queen.png=Hard"
+
+#: Eliador/scenarios/eliador-anwar.cfg:5
+msgid "Caves of Anwar"
+msgstr "Caves of Anwar"
+
+#: Eliador/scenarios/eliador-anwar.cfg:111
+msgid "Get kids close to monsters to recruit them"
+msgstr "Get kids close to monsters to recruit them"
+
+#: Eliador/scenarios/eliador-balas.cfg:103
+#: Eliador/scenarios/eliador-glorienda.cfg:43
+#: Eliador/scenarios/eliador-varad.cfg:116
+#: Eliador/scenarios/eliador-illien.cfg:236
+#: Eliador/scenarios/eliador-sinon.cfg:205
+#: Eliador/scenarios/eliador-home.cfg:518
+#: Eliador/scenarios/eliador-home.cfg:532
+#: Eliador/scenarios/eliador-kelroth.cfg:149
+#: Eliador/scenarios/eliador-gold.cfg:105
+#: Eliador/scenarios/eliador-anwar.cfg:113
+msgid "Turns run out"
+msgstr "Turns run out"
+
+#: Eliador/scenarios/eliador-balas.cfg:99
+#: Eliador/scenarios/eliador-sinon.cfg:209
+#: Eliador/scenarios/eliador-home.cfg:514
+#: Eliador/scenarios/eliador-kelroth.cfg:153
+#: Eliador/scenarios/eliador-gold.cfg:101
+#: Eliador/scenarios/eliador-anwar.cfg:117
+msgid "Death of Ardella, Anna or Zeke"
+msgstr "Death of Ardella, Anna or Zeke"
+
+#: Eliador/scenarios/eliador-anwar.cfg:191
+msgid ""
+"We will now enter the caves of Anwar. There are powerful beasts here that "
+"can prove useful to us. We must find a way to earn their trust."
+msgstr ""
+"We will now enter the caves of Anwar. There are powerful beasts here that "
+"can prove useful to us. We must find a way to earn their trust."
+
+#: Eliador/scenarios/eliador-anwar.cfg:196
+msgid "But, mother, I'm scared! They'll kill us!"
+msgstr "But, mother, I'm scared! They'll kill us!"
+
+#: Eliador/scenarios/eliador-anwar.cfg:201
+msgid ""
+"As long as we keep a safe distance, they will not harm us. However, I fear "
+"that since I am armed, they might instinctively attack me."
+msgstr ""
+"As long as we keep a safe distance, they will not harm us. However, I fear "
+"that since I am armed, they might instinctively attack me."
+
+#: Eliador/scenarios/eliador-anwar.cfg:206
+msgid "Then drop your weapon."
+msgstr "Then drop your weapon."
+
+#: Eliador/scenarios/eliador-anwar.cfg:211
+msgid "I cannot. The caves are too perilous."
+msgstr "I cannot. The caves are too perilous."
+
+#: Eliador/scenarios/eliador-anwar.cfg:216
+msgid "Then we will help you, momma!"
+msgstr "Then we will help you, momma!"
+
+#: Eliador/scenarios/eliador-balas.cfg:5
+msgid "Prisoners of Balas"
+msgstr "Prisoners of Balas"
+
+#: Eliador/scenarios/eliador-balas.cfg:93
+msgid "Hint: Don't listen to your mother"
+msgstr "Hint: Don't listen to your mother"
+
+#: Eliador/scenarios/eliador-balas.cfg:95
+msgid "Kill all enemies on the northeastern isle to free the prisoners."
+msgstr "Kill all enemies on the northeastern isle to free the prisoners."
+
+#: Eliador/scenarios/eliador-balas.cfg:165
+msgid "Momma, that's the bad man who took papa!"
+msgstr "Momma, that's the bad man who took papa!"
+
+#: Eliador/scenarios/eliador-balas.cfg:170
+msgid "Who are these fools trespassing on my master's island?"
+msgstr "Who are these fools trespassing on my master's island?"
+
+#: Eliador/scenarios/eliador-balas.cfg:175
+msgid ""
+"Kids, you wait here and stay out of trouble. I'll find out where your father "
+"is."
+msgstr ""
+"Kids, you wait here and stay out of trouble. I'll find out where your father "
+"is."
+
+#: Eliador/scenarios/eliador-balas.cfg:180
+msgid "Hey, Zeke, do you wanna go swimming?"
+msgstr "Hey, Zeke, do you wanna go swimming?"
+
+#: Eliador/scenarios/eliador-balas.cfg:185
+msgid "Stay out of the water! Just stay put!"
+msgstr "Stay out of the water! Just stay put!"
+
+#: Eliador/scenarios/eliador-balas.cfg:233
+msgid "Wow! A sea serpent!"
+msgstr "Wow! A sea serpent!"
+
+#: Eliador/scenarios/eliador-balas.cfg:237
+msgid "What are human children doing in my water?"
+msgstr "What are human children doing in my water?"
+
+#: Eliador/scenarios/eliador-balas.cfg:241
+msgid ""
+"We're looking for our papa. When we find him, we're going to kill all the "
+"bad guys!"
+msgstr ""
+"We're looking for our papa. When we find him, we're going to kill all the "
+"bad guys!"
+
+#: Eliador/scenarios/eliador-balas.cfg:245
+msgid ""
+"You're a brave little boy. Rest assured, the sea creatures of Eliador are "
+"doing everything we can to stop the approaching galleons."
+msgstr ""
+"You're a brave little boy. Rest assured, the sea creatures of Eliador are "
+"doing everything we can to stop the approaching galleons."
+
+#: Eliador/scenarios/eliador-balas.cfg:249
+msgid ""
+"If you wish to fight them when they reach the shore, then you must free the "
+"warriors being held captive. Come with me and I will help you free them."
+msgstr ""
+"If you wish to fight them when they reach the shore, then you must free the "
+"warriors being held captive. Come with me and I will help you free them."
+
+#: Eliador/scenarios/eliador-balas.cfg:282
+msgid "Bill, where is Zilead?"
+msgstr "Bill, where is Zilead?"
+
+#: Eliador/scenarios/eliador-balas.cfg:286
+msgid "Go to hell!"
+msgstr "Go to hell!"
+
+#: Eliador/scenarios/eliador-balas.cfg:306
+msgid ""
+"The islanders have amassed a great army. Our master should not have "
+"underestimated them. We must join them. Together, we can end our master's "
+"evil crusade."
+msgstr ""
+"The islanders have amassed a great army. Our master should not have "
+"underestimated them. We must join them. Together, we can end our master's "
+"evil crusade."
+
+#: Eliador/scenarios/eliador-balas.cfg:311
+msgid "Are you mad? If we betray our master, we will meet certain death."
+msgstr "Are you mad? If we betray our master, we will meet certain death."
+
+#: Eliador/scenarios/eliador-balas.cfg:316
+msgid ""
+"Aye, but we are defeated. Our master will most certainly slay us if we "
+"surrender to the islanders. If I am to die, then I choose to die with honor!"
+msgstr ""
+"Aye, but we are defeated. Our master will most certainly slay us if we "
+"surrender to the islanders. If I am to die, then I choose to die with honor!"
+
+#: Eliador/scenarios/eliador-balas.cfg:321
+msgid ""
+"We will not surrender! All islanders and turncoats will die by my sword!"
+msgstr ""
+"We will not surrender! All islanders and turncoats will die by my sword!"
+
+#: Eliador/scenarios/eliador-balas.cfg:377
+msgid ""
+"Now, that these warriors are free, I shall head east to try to stop those "
+"galleons. Good luck, children!"
+msgstr ""
+"Now, that these warriors are free, I shall head east to try to stop those "
+"galleons. Good luck, children!"
+
+#: Eliador/scenarios/eliador-balas.cfg:396
+msgid "Bye!"
+msgstr "Bye!"
+
+#: Eliador/scenarios/eliador-balas.cfg:402
+msgid ""
+"Thank you for freeing us. Our people were gathered on the southeastern coast "
+"before we were abducted. We had ordered them to flee the island, but some "
+"loyalists might still be there. We must go to them."
+msgstr ""
+"Thank you for freeing us. Our people were gathered on the southeastern coast "
+"before we were abducted. We had ordered them to flee the island, but some "
+"loyalists might still be there. We must go to them."
+
+#: Eliador/scenarios/eliador-glorienda.cfg:5
+msgid "Elves of Glorienda"
+msgstr "Elves of Glorienda"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:41
+msgid "Visit villages until turns run out"
+msgstr "Visit villages until turns run out"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:65
+msgid "Momma, the bad men didn't take papa here!"
+msgstr "Momma, the bad men didn't take papa here!"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:70
+msgid "I know, son, but we can't get daddy back without some help."
+msgstr "I know, son, but we can't get daddy back without some help."
+
+#: Eliador/scenarios/eliador-glorienda.cfg:75
+msgid "Do you think the elves will help us?"
+msgstr "Do you think the elves will help us?"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:80
+msgid "Of course they will."
+msgstr "Of course they will."
+
+#: Eliador/scenarios/eliador-glorienda.cfg:91
+msgid "The dragon can visit the villages in the mountain."
+msgstr "The dragon can visit the villages in the mountain."
+
+#: Eliador/scenarios/eliador-glorienda.cfg:95
+msgid "Good idea, son."
+msgstr "Good idea, son."
+
+#: Eliador/scenarios/eliador-glorienda.cfg:143
+msgid "Merith"
+msgstr "Merith"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:144
+msgid "Ilalya"
+msgstr "Ilalya"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:146
+#: Eliador/scenarios/eliador-glorienda.cfg:149
+msgid "Larien"
+msgstr "Larien"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:150
+msgid "Fawien"
+msgstr "Fawien"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:161
+msgid ""
+"Dragon of Anwar, you are not welcome here. I command you to join the sea "
+"creatures in their battle against the galleons. Leave now!"
+msgstr ""
+"Dragon of Anwar, you are not welcome here. I command you to join the sea "
+"creatures in their battle against the galleons. Leave now!"
+
+#: Eliador/scenarios/eliador-glorienda.cfg:184
+msgid "Lady Ardella, it was unwise of you to bring a dragon to my land."
+msgstr "Lady Ardella, it was unwise of you to bring a dragon to my land."
+
+#: Eliador/scenarios/eliador-glorienda.cfg:188
+msgid "Please, I only..."
+msgstr "Please, I only..."
+
+#: Eliador/scenarios/eliador-glorienda.cfg:194
+msgid ""
+"Ardella, we have already notified the elves of Wesnoth about the coming "
+"invasion. Kinowyn and his forces are on their way to Eliador, but they are a "
+"few days behind the enemy galleons. I will help you and the others hold them "
+"off until they arrive."
+msgstr ""
+"Ardella, we have already notified the elves of Wesnoth about the coming "
+"invasion. Kinowyn and his forces are on their way to Eliador, but they are a "
+"few days behind the enemy galleons. I will help you and the others hold them "
+"off until they arrive."
+
+#: Eliador/scenarios/eliador-gold.cfg:5
+msgid "Zilead's Gold"
+msgstr "Zilead's Gold"
+
+#: Eliador/scenarios/eliador-gold.cfg:97
+msgid "Move Ardella to the treasure chest and then back to the entrance"
+msgstr "Move Ardella to the treasure chest and then back to the entrance"
+
+#: Eliador/scenarios/eliador-gold.cfg:147
+msgid "Momma, papa told us never to come in here."
+msgstr "Momma, papa told us never to come in here."
+
+#: Eliador/scenarios/eliador-gold.cfg:152
+msgid "This is where your father keeps his treasure."
+msgstr "This is where your father keeps his treasure."
+
+#: Eliador/scenarios/eliador-gold.cfg:157
+msgid "Papa said that anyone who enters this cave will die!"
+msgstr "Papa said that anyone who enters this cave will die!"
+
+#: Eliador/scenarios/eliador-gold.cfg:162
+msgid ""
+"Nonsense. Your father was just trying to scare you. Anyway, I have the key "
+"to the treasure chest, so I will get the gold myself."
+msgstr ""
+"Nonsense. Your father was just trying to scare you. Anyway, I have the key "
+"to the treasure chest, so I will get the gold myself."
+
+#: Eliador/scenarios/eliador-gold.cfg:193
+msgid "I hope this is enough gold."
+msgstr "I hope this is enough gold."
+
+#: Eliador/scenarios/eliador-gold.cfg:237
+msgid ""
+"Ardella, what are you doing in this cave? I have seen countless men attempt "
+"to steal Zilead's gold and I watched as the sharks feasted upon their flesh. "
+"You will not make it out of here alive without my help."
+msgstr ""
+"Ardella, what are you doing in this cave? I have seen countless men attempt "
+"to steal Zilead's gold and I watched as the sharks feasted upon their flesh. "
+"You will not make it out of here alive without my help."
+
+#: Eliador/scenarios/eliador-heldurin.cfg:5
+msgid "Heldurin's Honor"
+msgstr "Heldurin's Honor"
+
+#: Eliador/scenarios/eliador-heldurin.cfg:42
+msgid "Give peasants 500 pieces of gold"
+msgstr "Give peasants 500 pieces of gold"
+
+#: Eliador/scenarios/eliador-heldurin.cfg:75
+msgid ""
+"Greetings, Ardella. We would very much like to help you fight off the "
+"invaders, but we've decided that we must get our families off this island."
+msgstr ""
+"Greetings, Ardella. We would very much like to help you fight off the "
+"invaders, but we've decided that we must get our families off this island."
+
+#: Eliador/scenarios/eliador-heldurin.cfg:79
+msgid ""
+"However, we would be willing to fight if you can ensure that our families "
+"will have enough gold to make it to Akhban."
+msgstr ""
+"However, we would be willing to fight if you can ensure that our families "
+"will have enough gold to make it to Akhban."
+
+#: Eliador/scenarios/eliador-heldurin.cfg:83
+msgid "I shall return with your gold."
+msgstr "I shall return with your gold."
+
+#: Eliador/scenarios/eliador-heldurin.cfg:111
+msgid ""
+"Five hundred pieces of gold is more than enough to ensure that our families "
+"reach Akhban."
+msgstr ""
+"Five hundred pieces of gold is more than enough to ensure that our families "
+"reach Akhban."
+
+#: Eliador/scenarios/eliador-heldurin.cfg:115
+msgid ""
+"Yes, now we will help you defeat the enemy so that our families can return "
+"home."
+msgstr ""
+"Yes, now we will help you defeat the enemy so that our families can return "
+"home."
+
+#: Eliador/scenarios/eliador-home.cfg:99
+msgid ""
+"Ardella! You cannot win this battle! Surrender now, and my master will "
+"arrange safe passage for you and your children to Wesnoth."
+msgstr ""
+"Ardella! You cannot win this battle! Surrender now, and my master will "
+"arrange safe passage for you and your children to Wesnoth."
+
+#: Eliador/scenarios/eliador-home.cfg:109
+msgid "Randalf? How is this possible? You should be dead!"
+msgstr "Randalf? How is this possible? You should be dead!"
+
+#: Eliador/scenarios/eliador-home.cfg:115
+msgid "I will never surrender!"
+msgstr "I will never surrender!"
+
+#: Eliador/scenarios/eliador-home.cfg:119
+msgid ""
+"What if I told you Zilead is awaiting your arrival? It is your choice. You "
+"can either start a new life in Wesnoth, or you can die here."
+msgstr ""
+"What if I told you Zilead is awaiting your arrival? It is your choice. You "
+"can either start a new life in Wesnoth, or you can die here."
+
+#: Eliador/scenarios/eliador-home.cfg:121
+msgid "Continue fighting"
+msgstr "Continue fighting"
+
+#: Eliador/scenarios/eliador-home.cfg:125
+msgid "You disappoint me."
+msgstr "You disappoint me."
+
+#: Eliador/scenarios/eliador-home.cfg:132
+msgid ""
+"Master, I promised Zilead I would protect his family. You must not harm "
+"Ardella or her children. Do with the others as you please."
+msgstr ""
+"Master, I promised Zilead I would protect his family. You must not harm "
+"Ardella or her children. Do with the others as you please."
+
+#: Eliador/scenarios/eliador-home.cfg:137
+msgid "You made your offer and she refused it. Therefore, she must die!"
+msgstr "You made your offer and she refused it. Therefore, she must die!"
+
+#: Eliador/scenarios/eliador-home.cfg:160
+msgid ""
+"Randalf! How could you participate in this genocide? Surely, you must know "
+"that your old master has gone insane? And yet you still obey her?"
+msgstr ""
+"Randalf! How could you participate in this genocide? Surely, you must know "
+"that your old master has gone insane? And yet you still obey her?"
+
+#: Eliador/scenarios/eliador-home.cfg:165
+msgid "You should not have left Wesnoth, Kinowyn!"
+msgstr "You should not have left Wesnoth, Kinowyn!"
+
+#: Eliador/scenarios/eliador-home.cfg:172
+msgid "Surrender"
+msgstr "Surrender"
+
+#: Eliador/scenarios/eliador-home.cfg:176
+msgid ""
+"Wise decision. I will go with you to ensure that you reach Wesnoth safely."
+msgstr ""
+"Wise decision. I will go with you to ensure that you reach Wesnoth safely."
+
+#: Eliador/scenarios/eliador-home.cfg:180
+msgid "Why didn't you inform me of Zilead's whereabouts sooner?"
+msgstr "Why didn't you inform me of Zilead's whereabouts sooner?"
+
+#: Eliador/scenarios/eliador-home.cfg:184
+msgid ""
+"Because my master wanted you to expose everyone who might try to repel the "
+"invasion. I'm afraid you've inadvertantly led the sheep to the slaughter."
+msgstr ""
+"Because my master wanted you to expose everyone who might try to repel the "
+"invasion. I'm afraid you've inadvertantly led the sheep to the slaughter."
+
+#: Eliador/scenarios/eliador-home.cfg:188
+msgid "What will become of the residents of Eliador?"
+msgstr "What will become of the residents of Eliador?"
+
+#: Eliador/scenarios/eliador-home.cfg:192
+msgid ""
+"That's no concern of yours. Now let's not keep Zilead waiting much longer."
+msgstr ""
+"That's no concern of yours. Now let's not keep Zilead waiting much longer."
+
+#: Eliador/scenarios/eliador-home.cfg:196
+msgid "Come on, kids. We're going to Wesnoth."
+msgstr "Come on, kids. We're going to Wesnoth."
+
+#: Eliador/scenarios/eliador-home.cfg:209
+msgid "Dwarves? How can such noble beings fight alongside orcs?"
+msgstr "Dwarves? How can such noble beings fight alongside orcs?"
+
+#: Eliador/scenarios/eliador-home.cfg:213
+msgid ""
+"If you must know, we became destitute after being banished from our homes in "
+"Wesnoth. Our new master promised us land and wealth if we fight alongside "
+"these vermin."
+msgstr ""
+"If you must know, we became destitute after being banished from our homes in "
+"Wesnoth. Our new master promised us land and wealth if we fight alongside "
+"these vermin."
+
+#: Eliador/scenarios/eliador-home.cfg:217
+msgid "We'll offer the same deal if you fight with us."
+msgstr "We'll offer the same deal if you fight with us."
+
+#: Eliador/scenarios/eliador-home.cfg:221
+msgid ""
+"Ha! We dwarves are a brave bunch, but we would not stand a chance against "
+"our master. I'm sorry, but you must all die!"
+msgstr ""
+"Ha! We dwarves are a brave bunch, but we would not stand a chance against "
+"our master. I'm sorry, but you must all die!"
+
+#: Eliador/scenarios/eliador-home.cfg:237
+msgid "We cannot win this battle! There are too many of them."
+msgstr "We cannot win this battle! There are too many of them."
+
+#: Eliador/scenarios/eliador-home.cfg:259
+msgid "Othello, you scaredy-cat!"
+msgstr "Othello, you scaredy-cat!"
+
+#: Eliador/scenarios/eliador-home.cfg:264
+msgid ""
+"The time has come for me to abolish the law of Illien. Slaves of Illien, I "
+"release you!"
+msgstr ""
+"The time has come for me to abolish the law of Illien. Slaves of Illien, I "
+"release you!"
+
+#: Eliador/scenarios/eliador-home.cfg:280
+msgid "Now let's slay those villainous creatures!"
+msgstr "Now let's slay those villainous creatures!"
+
+#: Eliador/scenarios/eliador-home.cfg:301
+msgid ""
+"I can't believe my orcs were outsmarted by a human and her two brats. How "
+"dare you interfere with my master's plan! Tonight, we shall feast upon your "
+"flesh!"
+msgstr ""
+"I can't believe my orcs were outsmarted by a human and her two brats. How "
+"dare you interfere with my master's plan! Tonight, we shall feast upon your "
+"flesh!"
+
+#: Eliador/scenarios/eliador-home.cfg:466
+#: Eliador/scenarios/eliador-kelroth.cfg:108
+msgid "Anna"
+msgstr "Anna"
+
+#: Eliador/scenarios/eliador-home.cfg:467
+msgid "Zilead"
+msgstr "Zilead"
+
+#: Eliador/scenarios/eliador-home.cfg:468
+#: Eliador/scenarios/eliador-kelroth.cfg:111
+msgid "Zeke"
+msgstr "Zeke"
+
+#: Eliador/scenarios/eliador-home.cfg:510
+msgid "Kill Ursula"
+msgstr "Kill Ursula"
+
+#: Eliador/scenarios/eliador-home.cfg:528
+msgid "Traverse all paths (move Ardella to signposts)"
+msgstr "Traverse all paths (move Ardella to signposts)"
+
+#: Eliador/scenarios/eliador-home.cfg:557
+msgid "Papa, can you tell me about Wesnoth again?"
+msgstr "Papa, can you tell me about Wesnoth again?"
+
+#: Eliador/scenarios/eliador-home.cfg:561
+msgid "Well, what do you want to..."
+msgstr "Well, what do you want to..."
+
+#: Eliador/scenarios/eliador-home.cfg:565
+msgid "Papa?"
+msgstr "Papa?"
+
+#: Eliador/scenarios/eliador-home.cfg:569
+msgid "Son, we must go home immediately."
+msgstr "Son, we must go home immediately."
+
+#: Eliador/scenarios/eliador-home.cfg:573
+msgid "Why?... What are you looking at?"
+msgstr "Why?... What are you looking at?"
+
+#: Eliador/scenarios/eliador-home.cfg:577
+msgid "At least three dozen galleons headed this way!"
+msgstr "At least three dozen galleons headed this way!"
+
+#: Eliador/scenarios/eliador-home.cfg:586
+msgid "Well, well, Zilead, it's been a long time."
+msgstr "Well, well, Zilead, it's been a long time."
+
+#: Eliador/scenarios/eliador-home.cfg:590
+msgid "How did you find me?"
+msgstr "How did you find me?"
+
+#: Eliador/scenarios/eliador-home.cfg:594
+msgid ""
+"Our master is taking over this island. Our orders are to eliminate anyone "
+"who might stand in her way. Finding you here was just an unexpected surprise."
+msgstr ""
+"Our master is taking over this island. Our orders are to eliminate anyone "
+"who might stand in her way. Finding you here was just an unexpected surprise."
+
+#: Eliador/scenarios/eliador-home.cfg:598
+msgid "Run home, son!"
+msgstr "Run home, son!"
+
+#: Eliador/scenarios/eliador-home.cfg:702
+msgid "Go there"
+msgstr "Go there"
+
+#: Eliador/scenarios/eliador-home.cfg:736
+msgid "Stay here"
+msgstr "Stay here"
+
+#: Eliador/scenarios/eliador-home.cfg:752
+msgid ""
+"Glorienda is where the elves of Eliador reside. Atop a mountain, reachable "
+"only by creatures of flight, you will find four elvish enchantresses."
+msgstr ""
+"Glorienda is where the elves of Eliador reside. Atop a mountain, reachable "
+"only by creatures of flight, you will find four elvish enchantresses."
+
+#: Eliador/scenarios/eliador-home.cfg:753
+msgid ""
+"There are three powerful but gentle beasts living in the caves of Anwar."
+msgstr ""
+"There are three powerful but gentle beasts living in the caves of Anwar."
+
+#: Eliador/scenarios/eliador-home.cfg:754
+msgid ""
+"A group of horsemen live just south of Eliador's only volcano, Mt. Sinon."
+msgstr ""
+"A group of horsemen live just south of Eliador's only volcano, Mt. Sinon."
+
+#: Eliador/scenarios/eliador-home.cfg:755
+msgid "Heldurin is the poorest area of Eliador."
+msgstr "Heldurin is the poorest area of Eliador."
+
+#: Eliador/scenarios/eliador-home.cfg:756
+msgid ""
+"Illien is ruled by Othello, a mad sorcerer who will attempt to steal the "
+"soul of any trespasser."
+msgstr ""
+"Illien is ruled by Othello, a mad sorcerer who will attempt to steal the "
+"soul of any trespasser."
+
+#: Eliador/scenarios/eliador-home.cfg:756
+msgid "We need at least 18 units to defeat Othello."
+msgstr "We need at least 18 units to defeat Othello."
+
+#: Eliador/scenarios/eliador-home.cfg:757
+msgid ""
+"Dol Kelroth is the most populated area of Eliador. Urian, the lord of the "
+"sky, lives on a small island just south of the territory."
+msgstr ""
+"Dol Kelroth is the most populated area of Eliador. Urian, the lord of the "
+"sky, lives on a small island just south of the territory."
+
+#: Eliador/scenarios/eliador-home.cfg:757
+msgid ""
+"The residents of Dol Kelroth have mysteriously disappeared. We will visit "
+"this area at a later time."
+msgstr ""
+"The residents of Dol Kelroth have mysteriously disappeared. We will visit "
+"this area at a later time."
+
+#: Eliador/scenarios/eliador-home.cfg:758
+msgid ""
+"Bill and his men took Zilead to this territory. Balas was once home to a "
+"group of powerful warriors. The fate of these warriors is unknown."
+msgstr ""
+"Bill and his men took Zilead to this territory. Balas was once home to a "
+"group of powerful warriors. The fate of these warriors is unknown."
+
+#: Eliador/scenarios/eliador-home.cfg:759
+msgid ""
+"There is a fell voice on the air. We should not venture this path at the "
+"present time."
+msgstr ""
+"There is a fell voice on the air. We should not venture this path at the "
+"present time."
+
+#: Eliador/scenarios/eliador-home.cfg:759
+msgid ""
+"A wise and powerful wizard lives on an island southeast of this unpopulated "
+"region. Othello is the only man on this island impervious to his magic."
+msgstr ""
+"A wise and powerful wizard lives on an island southeast of this unpopulated "
+"region. Othello is the only man on this island impervious to his magic."
+
+#: Eliador/scenarios/eliador-home.cfg:760
+msgid ""
+"Rumor has it that any man who attempts to steal Zilead's gold will not make "
+"it out of the cave alive."
+msgstr ""
+"Rumor has it that any man who attempts to steal Zilead's gold will not make "
+"it out of the cave alive."
+
+#: Eliador/scenarios/eliador-home.cfg:777
+msgid ""
+"Foolish wizard. I knew you would betray me! Your magic will not work while "
+"I'm around!"
+msgstr ""
+"Foolish wizard. I knew you would betray me! Your magic will not work while "
+"I'm around!"
+
+#: Eliador/scenarios/eliador-home.cfg:818
+msgid "How dare you attack |{DESC}|! You leave me no choice, Ursula!"
+msgstr "How dare you attack |{DESC}|! You leave me no choice, Ursula!"
+
+#: Eliador/scenarios/eliador-home.cfg:846
+msgid "What have I done? Master, I cannot slay Zilead's family!"
+msgstr "What have I done? Master, I cannot slay Zilead's family!"
+
+#: Eliador/scenarios/eliador-home.cfg:969
+msgid "No! Randalf is dead!"
+msgstr "No! Randalf is dead!"
+
+#: Eliador/scenarios/eliador-home.cfg:981
+msgid "We have slain Randalf! Surrender now, witch, or you'll be next!"
+msgstr "We have slain Randalf! Surrender now, witch, or you'll be next!"
+
+#: Eliador/scenarios/eliador-home.cfg:993
+msgid "You will be missed, Othello of Illien."
+msgstr "You will be missed, Othello of Illien."
+
+#: Eliador/scenarios/eliador-home.cfg:1005
+msgid "We did it, momma! The witch is dead!"
+msgstr "We did it, momma! The witch is dead!"
+
+#: Eliador/scenarios/eliador-home.cfg:1009
+msgid "Let's go to Wesnoth and bring father home."
+msgstr "Let's go to Wesnoth and bring father home."
+
+#: Eliador/scenarios/eliador-home.cfg:1013
+msgid ""
+"Yes, we will go to Wesnoth. But we shall never return to this godforsaken "
+"place again."
+msgstr ""
+"Yes, we will go to Wesnoth. But we shall never return to this godforsaken "
+"place again."
+
+#: Eliador/scenarios/eliador-home.cfg:1017
+msgid "Why, momma?"
+msgstr "Why, momma?"
+
+#: Eliador/scenarios/eliador-home.cfg:1021
+msgid ""
+"Six years ago, your father and I moved to Eliador to escape the wars of "
+"Wesnoth. But this place is no longer the safe haven it once was. Ursula's "
+"allies will avenge her death."
+msgstr ""
+"Six years ago, your father and I moved to Eliador to escape the wars of "
+"Wesnoth. But this place is no longer the safe haven it once was. Ursula's "
+"allies will avenge her death."
+
+#: Eliador/scenarios/eliador-home.cfg:1025
+msgid "Now, we must make haste. Your father is waiting for us."
+msgstr "Now, we must make haste. Your father is waiting for us."
+
+#: Eliador/scenarios/eliador-home.cfg:1029
+msgid "Yay, we're going to Wesnoth!"
+msgstr "Yay, we're going to Wesnoth!"
+
+#: Eliador/scenarios/eliador-home.cfg:1042
+#: Eliador/scenarios/eliador-utils.cfg:286
+#: Eliador/scenarios/eliador-utils.cfg:292
+msgid "Mother, you can't die! Please don't leave us!"
+msgstr "Mother, you can't die! Please don't leave us!"
+
+#: Eliador/scenarios/eliador-home.cfg:1054
+#: Eliador/scenarios/eliador-utils.cfg:306
+msgid "Anna! How can I go on living now that my only daughter is gone?"
+msgstr "Anna! How can I go on living now that my only daughter is gone?"
+
+#: Eliador/scenarios/eliador-home.cfg:1066
+msgid "I have failed to protect my family."
+msgstr "I have failed to protect my family."
+
+#: Eliador/scenarios/eliador-illien.cfg:5
+msgid "Othello of Illien"
+msgstr "Othello of Illien"
+
+#: Eliador/scenarios/eliador-illien.cfg:228
+msgid "You don't lose Anna or Zeke"
+msgstr "You don't lose Anna or Zeke"
+
+#: Eliador/scenarios/eliador-illien.cfg:232
+msgid "You lose Anna or Zeke"
+msgstr "You lose Anna or Zeke"
+
+#: Eliador/scenarios/eliador-varad.cfg:185
+#: Eliador/scenarios/eliador-illien.cfg:305
+msgid "Othello"
+msgstr "Othello"
+
+#: Eliador/scenarios/eliador-illien.cfg:772
+msgid ""
+"Well done, Ardella, you've protected your children. You can keep the "
+"skeletons that you've won, and I'll keep any man or creature that you've "
+"lost. Goodbye."
+msgstr ""
+"Well done, Ardella, you've protected your children. You can keep the "
+"skeletons that you've won, and I'll keep any man or creature that you've "
+"lost. Goodbye."
+
+#: Eliador/scenarios/eliador-illien.cfg:785
+msgid ""
+"You've sacrificed your children in an attempt to save your soldiers. Your "
+"heart is even colder than mine."
+msgstr ""
+"You've sacrificed your children in an attempt to save your soldiers. Your "
+"heart is even colder than mine."
+
+#: Eliador/scenarios/eliador-illien.cfg:810
+msgid "Ardella, I'm sure you're aware of the law of Illien. Are you prepared?"
+msgstr "Ardella, I'm sure you're aware of the law of Illien. Are you prepared?"
+
+#: Eliador/scenarios/eliador-illien.cfg:815
+msgid ""
+"You must know by now that we are about to be invaded. We don't have time for "
+"your games. Will you help us repel the invasion?"
+msgstr ""
+"You must know by now that we are about to be invaded. We don't have time for "
+"your games. Will you help us repel the invasion?"
+
+#: Eliador/scenarios/eliador-illien.cfg:820
+msgid ""
+"If you do not obey the law of Illien, my undead will annihilate your "
+"pathetic army. Now, let's begin, shall we?"
+msgstr ""
+"If you do not obey the law of Illien, my undead will annihilate your "
+"pathetic army. Now, let's begin, shall we?"
+
+#: Eliador/scenarios/eliador-illien.cfg:825
+msgid "Dragon 1A"
+msgstr "Dragon 1A"
+
+#: Eliador/scenarios/eliador-illien.cfg:826
+msgid "Dragon 1B"
+msgstr "Dragon 1B"
+
+#: Eliador/scenarios/eliador-illien.cfg:830
+msgid "Momma, what's happening? I can't move!"
+msgstr "Momma, what's happening? I can't move!"
+
+#: Eliador/scenarios/eliador-illien.cfg:871
+msgid "Ahh!"
+msgstr "Ahh!"
+
+#: Eliador/scenarios/eliador-illien.cfg:876
+msgid "Your move, Ardella."
+msgstr "Your move, Ardella."
+
+#: Eliador/scenarios/eliador-kelroth.cfg:5
+msgid "Dol Kelroth"
+msgstr "Dol Kelroth"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:145
+msgid "Kill all enemies"
+msgstr "Kill all enemies"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:213
+msgid "Where is everyone?"
+msgstr "Where is everyone?"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:222
+msgid "Momma!"
+msgstr "Momma!"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:226
+msgid ""
+"Urian! Please, if you are still alive, you must get my children away from "
+"these beasts!"
+msgstr ""
+"Urian! Please, if you are still alive, you must get my children away from "
+"these beasts!"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:231
+msgid ""
+"Ardella, there are orcs everywhere! I have sent two gryphons for your kids. "
+"If you help me defeat the orcs, my birds and I will forever be at your "
+"service."
+msgstr ""
+"Ardella, there are orcs everywhere! I have sent two gryphons for your kids. "
+"If you help me defeat the orcs, my birds and I will forever be at your "
+"service."
+
+#: Eliador/scenarios/eliador-kelroth.cfg:238
+msgid "Hurry, children! Get on the gryphons and fly somewhere safe!"
+msgstr "Hurry, children! Get on the gryphons and fly somewhere safe!"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:243
+msgid ""
+"Ardella, the residents of Dol Kelroth have been killed and their bodies "
+"dumped in the sea."
+msgstr ""
+"Ardella, the residents of Dol Kelroth have been killed and their bodies "
+"dumped in the sea."
+
+#: Eliador/scenarios/eliador-kelroth.cfg:248
+msgid "Are you certain everyone is dead?"
+msgstr "Are you certain everyone is dead?"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:253
+msgid ""
+"I have tried to search the sea for survivors, but neither I nor my birds can "
+"see through the dense fog."
+msgstr ""
+"I have tried to search the sea for survivors, but neither I nor my birds can "
+"see through the dense fog."
+
+#: Eliador/scenarios/eliador-kelroth.cfg:258
+msgid "Momma, you kill all the orcs and we'll find the survivors."
+msgstr "Momma, you kill all the orcs and we'll find the survivors."
+
+#: Eliador/scenarios/eliador-kelroth.cfg:263
+msgid "Sounds like a plan... Let's go, Zeke!"
+msgstr "Sounds like a plan... Let's go, Zeke!"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:348
+msgid "The invaders of Dol Kelroth are vanquished."
+msgstr "The invaders of Dol Kelroth are vanquished."
+
+#: Eliador/scenarios/eliador-kelroth.cfg:380
+msgid "I am slain! Birds of Dol Kelroth, you must obey Ardella now!"
+msgstr "I am slain! Birds of Dol Kelroth, you must obey Ardella now!"
+
+#: Eliador/scenarios/eliador-kelroth.cfg:393
+msgid "We are overrun by these loathesome creatures! We must surrender!"
+msgstr "We are overrun by these loathesome creatures! We must surrender!"
+
+#: Eliador/scenarios/eliador-sinon.cfg:5
+msgid "Sinon's Wrath"
+msgstr "Sinon's Wrath"
+
+#: Eliador/scenarios/eliador-sinon.cfg:203
+msgid "Move horses to high ground"
+msgstr "Move horses to high ground"
+
+#: Eliador/scenarios/eliador-sinon.cfg:249
+msgid "Momma, my ears! What was that noise?"
+msgstr "Momma, my ears! What was that noise?"
+
+#: Eliador/scenarios/eliador-sinon.cfg:254
+msgid "It sounded like a..."
+msgstr "It sounded like a..."
+
+#: Eliador/scenarios/eliador-sinon.cfg:259
+msgid "It couldn't be... Mount Sinon has been dormant for three centuries..."
+msgstr "It couldn't be... Mount Sinon has been dormant for three centuries..."
+
+#: Eliador/scenarios/eliador-sinon.cfg:264
+msgid "Look over there, momma!"
+msgstr "Look over there, momma!"
+
+#: Eliador/scenarios/eliador-sinon.cfg:269
+msgid "Quickly, get to the mountains!"
+msgstr "Quickly, get to the mountains!"
+
+#: Eliador/scenarios/eliador-sinon.cfg:417
+msgid "You have risked your lives to save our steeds. Why?"
+msgstr "You have risked your lives to save our steeds. Why?"
+
+#: Eliador/scenarios/eliador-sinon.cfg:421
+msgid ""
+"Because we need every man and beast on this island to fight the enemies "
+"approaching Eliador."
+msgstr ""
+"Because we need every man and beast on this island to fight the enemies "
+"approaching Eliador."
+
+#: Eliador/scenarios/eliador-sinon.cfg:425
+msgid ""
+"We have never backed down from a fight, so we will help you. But we have "
+"seen the number of galleons. Why don't you take your children off this "
+"island?"
+msgstr ""
+"We have never backed down from a fight, so we will help you. But we have "
+"seen the number of galleons. Why don't you take your children off this "
+"island?"
+
+#: Eliador/scenarios/eliador-sinon.cfg:429
+msgid "Because they took my papa!"
+msgstr "Because they took my papa!"
+
+#: Eliador/scenarios/eliador-utils.cfg:268
+msgid "Both of my children have perished! I have failed them!"
+msgstr "Both of my children have perished! I have failed them!"
+
+#: Eliador/scenarios/eliador-utils.cfg:318
+msgid ""
+"I have failed to protect my family. Let's go home, Anna. We shall await the "
+"coming invasion. We shall perish."
+msgstr ""
+"I have failed to protect my family. Let's go home, Anna. We shall await the "
+"coming invasion. We shall perish."
+
+#: Eliador/scenarios/eliador-varad.cfg:5
+msgid "Randalf's Statues"
+msgstr "Randalf's Statues"
+
+#: Eliador/scenarios/eliador-varad.cfg:86
+msgid "Go home to your children, Ardella... Zara! Baringa! Echla!"
+msgstr "Go home to your children, Ardella... Zara! Baringa! Echla!"
+
+#: Eliador/scenarios/eliador-varad.cfg:108
+msgid "Kill Randalf to unstone every unit."
+msgstr "Kill Randalf to unstone every unit."
+
+#: Eliador/scenarios/eliador-varad.cfg:112
+msgid "Kill cockatrices to unstone leaders."
+msgstr "Kill cockatrices to unstone leaders."
+
+#: Eliador/scenarios/eliador-varad.cfg:186
+msgid "Skeleton"
+msgstr "Skeleton"
+
+#: Eliador/scenarios/eliador-varad.cfg:187
+msgid "Skeleton Archer"
+msgstr "Skeleton Archer"
+
+#: Eliador/scenarios/eliador-varad.cfg:192
+msgid ""
+"I knew you couldn't be trusted, Randalf. Did you think I would sit idly by "
+"while my land is invaded?"
+msgstr ""
+"I knew you couldn't be trusted, Randalf. Did you think I would sit idly by "
+"while my land is invaded?"
+
+#: Eliador/scenarios/eliador-varad.cfg:196
+msgid ""
+"Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
+"see what you're made of!"
+msgstr ""
+"Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
+"see what you're made of!"
+
+#: Eliador/scenarios/eliador-varad.cfg:214
+msgid ""
+"Seven powerful warriors have been killed under your leadership, Ardella. I "
+"suggest you and your kids leave this island before more lives are wasted."
+msgstr ""
+"Seven powerful warriors have been killed under your leadership, Ardella. I "
+"suggest you and your kids leave this island before more lives are wasted."
+
+#: Eliador/scenarios/eliador-varad.cfg:222
+msgid "What have you done, wizard? Speak!"
+msgstr "What have you done, wizard? Speak!"
+
+#: Eliador/scenarios/eliador-varad.cfg:227
+msgid ""
+"If you must know, my master is on her way to Eliador. The statues you see "
+"before you are my gifts to her. Soon, I will acquire seven more statues."
+msgstr ""
+"If you must know, my master is on her way to Eliador. The statues you see "
+"before you are my gifts to her. Soon, I will acquire seven more statues."
+
+#: Eliador/scenarios/eliador-varad.cfg:232
+msgid "We shall cut you into a thousand pieces for what you've done!"
+msgstr "We shall cut you into a thousand pieces for what you've done!"
+
+#: Eliador/scenarios/eliador-varad.cfg:237
+msgid ""
+"Ardella, I do not wish any harm on you. Zilead is a dear friend... Zara! "
+"Baringa! Echla!"
+msgstr ""
+"Ardella, I do not wish any harm on you. Zilead is a dear friend... Zara! "
+"Baringa! Echla!"
+
+#: Eliador/scenarios/eliador-varad.cfg:249
+msgid "Randalf, you swine! Where is Zilead? What have you done to him?"
+msgstr "Randalf, you swine! Where is Zilead? What have you done to him?"
+
+#: Eliador/scenarios/eliador-varad.cfg:254
+msgid ""
+"You have my word that Zilead is safe. That is all I am at liberty to divulge "
+"at the present time. Now please stay out of harms way!"
+msgstr ""
+"You have my word that Zilead is safe. That is all I am at liberty to divulge "
+"at the present time. Now please stay out of harms way!"
+
+#: Eliador/scenarios/eliador-varad.cfg:259
+msgid ""
+"You'd better do as he says, Ardella. You are no match for a wizard. We will "
+"handle this."
+msgstr ""
+"You'd better do as he says, Ardella. You are no match for a wizard. We will "
+"handle this."
+
+#: Eliador/scenarios/eliador-varad.cfg:296
+msgid "Zara! Baringa! Echla!"
+msgstr "Zara! Baringa! Echla!"
+
+#: Eliador/scenarios/eliador-varad.cfg:327
+msgid ""
+"You have fought well against my birds, but you will not fare so well against "
+"my master's army."
+msgstr ""
+"You have fought well against my birds, but you will not fare so well against "
+"my master's army."
+
+#: Eliador/scenarios/eliador-varad.cfg:347
+msgid "Platu! Verata! Bichtu!"
+msgstr "Platu! Verata! Bichtu!"
+
+#: Eliador/scenarios/eliador-varad.cfg:352
+msgid ""
+"Now that I have freed you from the spell, go back to Zilead's territory. "
+"That is where the main invasion will take place."
+msgstr ""
+"Now that I have freed you from the spell, go back to Zilead's territory. "
+"That is where the main invasion will take place."
+
+#: Eliador/units/Eliador_Cockatrice.cfg:4
+msgid "Eliador Cockatrice"
+msgstr "Eliador Cockatrice"
+
+#: Eliador/units/Eliador_Cockatrice.cfg:17
+msgid "These cockatrices have a melee attack."
+msgstr "These cockatrices have a melee attack."
+
+#: Eliador/units/Eliador_Horse.cfg:4
+msgid "Eliador Horse"
+msgstr "Eliador Horse"
+
+#: Eliador/units/Eliador_Horse.cfg:18
+msgid "Horses do not have an attack."
+msgstr "Horses do not have an attack."
+
+#: Eliador/units/Eliador_Shark.cfg:4
+msgid "Eliador Shark"
+msgstr "Eliador Shark"
+
+#: Eliador/units/Eliador_Shark.cfg:17
+msgid "Da-dum... Da-dum... Da-dum ..."
+msgstr "Da-dum... Da-dum... Da-dum ..."
+
+#: Eliador/units/Eliador_Witch.cfg:4
+msgid "Witch"
+msgstr "Witch"
+
+#: Eliador/units/Eliador_Witch.cfg:17
+msgid "A witch! Burn her!"
+msgstr "A witch! Burn her!"
+
+#: Eliador/units/Footpad_Toddler.cfg:4
+msgid "Footpad Toddler"
+msgstr "Footpad Toddler"
+
+#: Eliador/units/Gryphon_Rider_Kid.cfg:4
+msgid "Eliador Gryphon Kid"
+msgstr "Eliador Gryphon Kid"
+
+#: Eliador/units/Gryphon_Rider_Kid.cfg:18
+msgid "An outlaw princess kid riding a gryphon."
+msgstr "An outlaw princess kid riding a gryphon."
+
+#: Eliador/units/Gryphon_Rider_Queen.cfg:4
+msgid "Eliador Gryphon Queen"
+msgstr "Eliador Gryphon Queen"
+
+#: Eliador/units/Gryphon_Rider_Queen.cfg:19
+msgid "Outlaw Queen riding a gryphon."
+msgstr "Outlaw Queen riding a gryphon."
+
+#: Eliador/units/Gryphon_Rider_Toddler.cfg:4
+msgid "Eliador Gryphon Toddler"
+msgstr "Eliador Gryphon Toddler"
+
+#: Eliador/units/Gryphon_Rider_Toddler.cfg:18
+msgid "A footpad toddler riding a gryphon."
+msgstr "A footpad toddler riding a gryphon."
+
+#: Eliador/units/Gryphon_Small.cfg:4
+msgid "Eliador Small Gryphon"
+msgstr "Eliador Small Gryphon"
+
+#: Eliador/units/Gryphon_Small.cfg:18
+msgid "A small gryphon that has no attack."
+msgstr "A small gryphon that has no attack."
+
+#: Eliador/units/Kids_Sea_Serpent.cfg:4
+msgid "Kids Sea Serpent"
+msgstr "Kids Sea Serpent"
+
+#: Eliador/units/Kids_Sea_Serpent.cfg:17
+msgid ""
+"A sea serpent with a footpad toddler and outlaw princess kid riding on its "
+"back."
+msgstr ""
+"A sea serpent with a footpad toddler and outlaw princess kid riding on its "
+"back."
+
+#: Eliador/units/Outlaw_Princess_Kid.cfg:4
+msgid "Outlaw Princess Kid"
+msgstr "Outlaw Princess Kid"
