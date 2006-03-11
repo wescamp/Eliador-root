@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-01-01 19:17+0100\n"
+"POT-Creation-Date: 2006-03-12 18:38+0100\n"
 "PO-Revision-Date: 2005-07-25 14:58+0200\n"
 "Last-Translator: blurgk <blurg@gmail.com>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -17,7 +17,7 @@ msgstr "L'invasion d'Eliador"
 
 #: Eliador.cfg:11
 msgid " (Version"
-msgstr ""
+msgstr " (Version"
 
 #: Eliador.cfg:11
 msgid ""
@@ -45,25 +45,25 @@ msgstr "Cavernes d'Anwar"
 msgid "Get kids close to monsters to recruit them"
 msgstr "Amener les enfants près des monstres pour les recruter"
 
-#: Eliador/scenarios/eliador-balas.cfg:103
-#: Eliador/scenarios/eliador-glorienda.cfg:43
+#: Eliador/scenarios/eliador-kelroth.cfg:149
 #: Eliador/scenarios/eliador-varad.cfg:116
 #: Eliador/scenarios/eliador-illien.cfg:236
-#: Eliador/scenarios/eliador-sinon.cfg:205
+#: Eliador/scenarios/eliador-anwar.cfg:113
 #: Eliador/scenarios/eliador-home.cfg:518
 #: Eliador/scenarios/eliador-home.cfg:532
-#: Eliador/scenarios/eliador-kelroth.cfg:149
+#: Eliador/scenarios/eliador-balas.cfg:103
+#: Eliador/scenarios/eliador-sinon.cfg:205
+#: Eliador/scenarios/eliador-glorienda.cfg:43
 #: Eliador/scenarios/eliador-gold.cfg:105
-#: Eliador/scenarios/eliador-anwar.cfg:113
 msgid "Turns run out"
 msgstr "Fin des tours"
 
+#: Eliador/scenarios/eliador-kelroth.cfg:153
+#: Eliador/scenarios/eliador-anwar.cfg:117
+#: Eliador/scenarios/eliador-home.cfg:514
 #: Eliador/scenarios/eliador-balas.cfg:99
 #: Eliador/scenarios/eliador-sinon.cfg:209
-#: Eliador/scenarios/eliador-home.cfg:514
-#: Eliador/scenarios/eliador-kelroth.cfg:153
 #: Eliador/scenarios/eliador-gold.cfg:101
-#: Eliador/scenarios/eliador-anwar.cfg:117
 msgid "Death of Ardella, Anna or Zeke"
 msgstr "Mort d'Ardella, d'Anna ou de Zeke"
 
@@ -185,21 +185,30 @@ msgid ""
 "underestimated them. We must join them. Together, we can end our master's "
 "evil crusade."
 msgstr ""
+"Les insulaires ont formé une grande armée. Notre maître n'aurait pas dû les "
+"sous-estimer. Nous devons nous unir avec eux. Ensemble, nous pouvons mettre "
+"fin à la terrible croisade de notre maître."
 
 #: Eliador/scenarios/eliador-balas.cfg:311
 msgid "Are you mad? If we betray our master, we will meet certain death."
 msgstr ""
+"Es-tu fou ? Si nous trahissons notre maître, nous allons à une mort certaine."
 
 #: Eliador/scenarios/eliador-balas.cfg:316
 msgid ""
 "Aye, but we are defeated. Our master will most certainly slay us if we "
 "surrender to the islanders. If I am to die, then I choose to die with honor!"
 msgstr ""
+"Aïe, nous sommes défaits. Notre maître va certainement nous lyncher si nous "
+"rendons aux insulaires. Si je dois mourir, alors je choisis de mourir avec "
+"honneur !"
 
 #: Eliador/scenarios/eliador-balas.cfg:321
 msgid ""
 "We will not surrender! All islanders and turncoats will die by my sword!"
 msgstr ""
+"Nous ne nous rendrons pas ! Tous les insulaires et les transfuges périront "
+"de mon épée !"
 
 #: Eliador/scenarios/eliador-balas.cfg:377
 msgid ""
@@ -542,10 +551,10 @@ msgid ""
 msgstr ""
 "Je n'arrive pas à croire que mes orcs aient été dupés par une humaine et ses "
 "deux morveux. Comment osez-vous interférer avec les plans de ma maîtresse ! "
-"Cette nuit, nous festoyerons sur votre chair !"
+"Cette nuit, nous festoierons sur votre chair !"
 
-#: Eliador/scenarios/eliador-home.cfg:466
 #: Eliador/scenarios/eliador-kelroth.cfg:108
+#: Eliador/scenarios/eliador-home.cfg:466
 msgid "Anna"
 msgstr "Anna"
 
@@ -553,8 +562,8 @@ msgstr "Anna"
 msgid "Zilead"
 msgstr "Zilead"
 
-#: Eliador/scenarios/eliador-home.cfg:468
 #: Eliador/scenarios/eliador-kelroth.cfg:111
+#: Eliador/scenarios/eliador-home.cfg:468
 msgid "Zeke"
 msgstr "Zeke"
 
@@ -633,8 +642,7 @@ msgstr ""
 msgid ""
 "There are three powerful but gentle beasts living in the caves of Anwar."
 msgstr ""
-"Il y a des trois bêtes puissantes mais douces vivant dans les cavernes "
-"d'Anwar."
+"Il y a trois bêtes puissantes mais douces vivant dans les cavernes d'Anwar."
 
 #: Eliador/scenarios/eliador-home.cfg:754
 msgid ""
@@ -1012,13 +1020,15 @@ msgstr "Parce qu'ils ont pris mon papa !"
 
 #: Eliador/scenarios/eliador-utils.cfg:268
 msgid "Both of my children have perished! I have failed them!"
-msgstr ""
+msgstr "Mes enfants ont péri ! J'ai été un père indigne !"
 
 #: Eliador/scenarios/eliador-utils.cfg:318
 msgid ""
 "I have failed to protect my family. Let's go home, Anna. We shall await the "
 "coming invasion. We shall perish."
 msgstr ""
+"Je n'ai pas réussi à protéger ma famille. Retournons chez nous, Anna. Allons "
+"attendre l'invasion prochaine. Et nous mourrons."
 
 #: Eliador/scenarios/eliador-varad.cfg:5
 msgid "Randalf's Statues"
@@ -1054,7 +1064,6 @@ msgstr ""
 "j'allais rester sans rien faire alors que mon pays se faisait envahir ?"
 
 #: Eliador/scenarios/eliador-varad.cfg:196
-#, fuzzy
 msgid ""
 "Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
 "see what you're made of!"
@@ -1100,7 +1109,6 @@ msgstr ""
 msgid "Randalf, you swine! Where is Zilead? What have you done to him?"
 msgstr "Randalf, espèce de porc ! Où est Zilead ? Que lui as-tu fait ?"
 
-# out of harms way ?
 #: Eliador/scenarios/eliador-varad.cfg:254
 msgid ""
 "You have my word that Zilead is safe. That is all I am at liberty to divulge "
@@ -1134,13 +1142,12 @@ msgid "Platu! Verata! Bichtu!"
 msgstr "Platou ! Verata ! Bichtou !"
 
 #: Eliador/scenarios/eliador-varad.cfg:352
-#, fuzzy
 msgid ""
 "Now that I have freed you from the spell, go back to Zilead's territory. "
 "That is where the main invasion will take place."
 msgstr ""
 "Maintenant que je vous ai libéré du sort, retournez au territoire de Zilead. "
-"C'est là-bas que la grande invasion aura lieu. Ardella, Zilead est..."
+"C'est là-bas que la grande invasion aura lieu."
 
 #: Eliador/units/Eliador_Cockatrice.cfg:4
 msgid "Eliador Cockatrice"
