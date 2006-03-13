@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-01-01 19:17+0100\n"
+"POT-Creation-Date: 2006-03-12 18:38+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,11 +34,11 @@ msgstr ""
 msgid "Get kids close to monsters to recruit them"
 msgstr ""
 
-#: ./Eliador/scenarios/eliador-balas.cfg:103 ./Eliador/scenarios/eliador-glorienda.cfg:43 ./Eliador/scenarios/eliador-varad.cfg:116 ./Eliador/scenarios/eliador-illien.cfg:236 ./Eliador/scenarios/eliador-sinon.cfg:205 ./Eliador/scenarios/eliador-home.cfg:518 ./Eliador/scenarios/eliador-home.cfg:532 ./Eliador/scenarios/eliador-kelroth.cfg:149 ./Eliador/scenarios/eliador-gold.cfg:105 ./Eliador/scenarios/eliador-anwar.cfg:113
+#: ./Eliador/scenarios/eliador-kelroth.cfg:149 ./Eliador/scenarios/eliador-varad.cfg:116 ./Eliador/scenarios/eliador-illien.cfg:236 ./Eliador/scenarios/eliador-anwar.cfg:113 ./Eliador/scenarios/eliador-home.cfg:518 ./Eliador/scenarios/eliador-home.cfg:532 ./Eliador/scenarios/eliador-balas.cfg:103 ./Eliador/scenarios/eliador-sinon.cfg:205 ./Eliador/scenarios/eliador-glorienda.cfg:43 ./Eliador/scenarios/eliador-gold.cfg:105
 msgid "Turns run out"
 msgstr ""
 
-#: ./Eliador/scenarios/eliador-balas.cfg:99 ./Eliador/scenarios/eliador-sinon.cfg:209 ./Eliador/scenarios/eliador-home.cfg:514 ./Eliador/scenarios/eliador-kelroth.cfg:153 ./Eliador/scenarios/eliador-gold.cfg:101 ./Eliador/scenarios/eliador-anwar.cfg:117
+#: ./Eliador/scenarios/eliador-kelroth.cfg:153 ./Eliador/scenarios/eliador-anwar.cfg:117 ./Eliador/scenarios/eliador-home.cfg:514 ./Eliador/scenarios/eliador-balas.cfg:99 ./Eliador/scenarios/eliador-sinon.cfg:209 ./Eliador/scenarios/eliador-gold.cfg:101
 msgid "Death of Ardella, Anna or Zeke"
 msgstr ""
 
@@ -382,7 +382,7 @@ msgstr ""
 msgid "I can't believe my orcs were outsmarted by a human and her two brats. How dare you interfere with my master's plan! Tonight, we shall feast upon your flesh!"
 msgstr ""
 
-#: ./Eliador/scenarios/eliador-home.cfg:466 ./Eliador/scenarios/eliador-kelroth.cfg:108
+#: ./Eliador/scenarios/eliador-kelroth.cfg:108 ./Eliador/scenarios/eliador-home.cfg:466
 msgid "Anna"
 msgstr ""
 
@@ -390,7 +390,7 @@ msgstr ""
 msgid "Zilead"
 msgstr ""
 
-#: ./Eliador/scenarios/eliador-home.cfg:468 ./Eliador/scenarios/eliador-kelroth.cfg:111
+#: ./Eliador/scenarios/eliador-kelroth.cfg:111 ./Eliador/scenarios/eliador-home.cfg:468
 msgid "Zeke"
 msgstr ""
 
