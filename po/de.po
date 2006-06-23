@@ -3,10 +3,10 @@
 # Stefan von Halenbach <vonHalenbach@users.sourceforge.net>, 2006.
 msgid ""
 msgstr ""
-"Project-Id-Version: Eliador-de\n"
+"Project-Id-Version: eliador-de\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-12 18:38+0100\n"
-"PO-Revision-Date: 2006-06-12 18:43+0200\n"
+"PO-Revision-Date: 2006-06-20 13:00+0200\n"
 "Last-Translator: Stefan von Halenbach <vonHalenbach@users.sourceforge.net>\n"
 "Language-Team: Deutsch\n"
 "MIME-Version: 1.0\n"
@@ -21,7 +21,7 @@ msgstr "Invasion von Eliador"
 
 #: Eliador.cfg:11
 msgid " (Version"
-msgstr ""
+msgstr " (Version"
 
 #: Eliador.cfg:11
 msgid ""
@@ -35,13 +35,12 @@ msgstr ""
 "ist."
 
 #: Eliador.cfg:16
-#, fuzzy
 msgid ""
 "&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-outlaw-"
 "queen.png=Hard"
 msgstr ""
-"&footpad-toddler.png=Einfach;*&outlaw-princess-kid.png=Mittelschwer;&neutral-"
-"outlaw-queen.png=Schwer"
+"&footpad-toddler.png=Kindergarten;*&outlaw-princess-kid.png=Normal;&neutral-"
+"outlaw-queen.png=Kaum Auszuhalten"
 
 #: Eliador/scenarios/eliador-anwar.cfg:5
 msgid "Caves of Anwar"
@@ -128,7 +127,7 @@ msgstr "Mutti, das ist der böse Mann, der Papi mitgenommen hat!"
 
 #: Eliador/scenarios/eliador-balas.cfg:170
 msgid "Who are these fools trespassing on my master's island?"
-msgstr "Wer wagt es, meines Meisters Insel zu betreten ?"
+msgstr "Wer wagt es, die Insel meiner Meisterin zu betreten ?"
 
 #: Eliador/scenarios/eliador-balas.cfg:175
 msgid ""
@@ -151,7 +150,6 @@ msgid "Wow! A sea serpent!"
 msgstr "Klasse ! Eine Seeschlange !"
 
 #: Eliador/scenarios/eliador-balas.cfg:237
-#, fuzzy
 msgid "What are human children doing in my water?"
 msgstr "Was machen Menschenkinder in meiner Bucht ?"
 
@@ -210,9 +208,9 @@ msgid ""
 "Aye, but we are defeated. Our master will most certainly slay us if we "
 "surrender to the islanders. If I am to die, then I choose to die with honor!"
 msgstr ""
-"Jaaa, aber wir wurden besiegt. Unsere Meisterin wird ganz sicher totschlagen "
-"wenn wir uns den Inselbewohnern ergeben. Wenn ich schon sterben muss, dann "
-"wähle ich in Ehre zu sterben!"
+"Jaa, aber wir wurden besiegt. Unsere Meisterin wird uns ganz sicher "
+"totschlagen wenn wir uns den Inselbewohnern ergeben. Wenn ich schon sterben "
+"muss, dann wähle ich den ehrenvollen Tod!"
 
 #: Eliador/scenarios/eliador-balas.cfg:321
 msgid ""
@@ -222,7 +220,6 @@ msgstr ""
 "mein Schwert den Tod finden."
 
 #: Eliador/scenarios/eliador-balas.cfg:377
-#, fuzzy
 msgid ""
 "Now, that these warriors are free, I shall head east to try to stop those "
 "galleons. Good luck, children!"
@@ -250,7 +247,6 @@ msgid "Elves of Glorienda"
 msgstr "Elfen von Glorienda"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:41
-#, fuzzy
 msgid "Visit villages until turns run out"
 msgstr "Besuche alle Städte vor Rundenende"
 
@@ -281,20 +277,20 @@ msgstr "Gute Idee, mein Sohn."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:143
 msgid "Merith"
-msgstr ""
+msgstr "Merith"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:144
 msgid "Ilalya"
-msgstr ""
+msgstr "Ilalya"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:146
 #: Eliador/scenarios/eliador-glorienda.cfg:149
 msgid "Larien"
-msgstr ""
+msgstr "Larien"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:150
 msgid "Fawien"
-msgstr ""
+msgstr "Fawien"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:161
 msgid ""
@@ -358,7 +354,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-gold.cfg:193
 msgid "I hope this is enough gold."
-msgstr "Ich hoffe das wir jetzt genug Gold haben."
+msgstr "Ich hoffe, dass wir jetzt genug Gold haben."
 
 #: Eliador/scenarios/eliador-gold.cfg:237
 msgid ""
@@ -577,7 +573,7 @@ msgstr ""
 #: Eliador/scenarios/eliador-kelroth.cfg:108
 #: Eliador/scenarios/eliador-home.cfg:466
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #: Eliador/scenarios/eliador-home.cfg:467
 msgid "Zilead"
@@ -586,14 +582,13 @@ msgstr "Silas"
 #: Eliador/scenarios/eliador-kelroth.cfg:111
 #: Eliador/scenarios/eliador-home.cfg:468
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #: Eliador/scenarios/eliador-home.cfg:510
 msgid "Kill Ursula"
 msgstr "Töte Ursula"
 
 #: Eliador/scenarios/eliador-home.cfg:528
-#, fuzzy
 msgid "Traverse all paths (move Ardella to signposts)"
 msgstr "Überfahre alle Pfade (bring Ardella zum Wegweiser)"
 
@@ -750,7 +745,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:846
 msgid "What have I done? Master, I cannot slay Zilead's family!"
-msgstr "Was habe ich getan? Meister, ich kann Silas Familie nicht töten!"
+msgstr "Was habe ich getan? Meisterin, ich kann Silas Familie nicht töten!"
 
 #: Eliador/scenarios/eliador-home.cfg:969
 msgid "No! Randalf is dead!"
@@ -835,7 +830,7 @@ msgstr "Du verlierst Anna oder Zeke"
 #: Eliador/scenarios/eliador-varad.cfg:185
 #: Eliador/scenarios/eliador-illien.cfg:305
 msgid "Othello"
-msgstr ""
+msgstr "Othello"
 
 #: Eliador/scenarios/eliador-illien.cfg:772
 msgid ""
@@ -878,12 +873,10 @@ msgstr ""
 "wir?"
 
 #: Eliador/scenarios/eliador-illien.cfg:825
-#, fuzzy
 msgid "Dragon 1A"
 msgstr "Drachen 1A"
 
 #: Eliador/scenarios/eliador-illien.cfg:826
-#, fuzzy
 msgid "Dragon 1B"
 msgstr "Drachen 1B"
 
@@ -892,7 +885,6 @@ msgid "Momma, what's happening? I can't move!"
 msgstr "Mutti, was passiert hier? Ich kann mich nicht bewegen!"
 
 #: Eliador/scenarios/eliador-illien.cfg:871
-#, fuzzy
 msgid "Ahh!"
 msgstr "Ahhrrgh!"
 
@@ -902,7 +894,7 @@ msgstr "Du bist am Zug, Ardella."
 
 #: Eliador/scenarios/eliador-kelroth.cfg:5
 msgid "Dol Kelroth"
-msgstr ""
+msgstr "Dol Kelroth"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:145
 msgid "Kill all enemies"
@@ -1038,7 +1030,6 @@ msgid "Because they took my papa!"
 msgstr "Weil sie meinen Papi mitgenommen haben!"
 
 #: Eliador/scenarios/eliador-utils.cfg:268
-#, fuzzy
 msgid "Both of my children have perished! I have failed them!"
 msgstr ""
 "Beide meine Kinder sind ums Leben gekommen! Ich konnte sie nicht retten!"
@@ -1082,7 +1073,7 @@ msgid ""
 "while my land is invaded?"
 msgstr ""
 "Ich habe mir schon gedacht, das man dir nicht trauen kann Randalf. Dachtest "
-"du ich sehe Tatenlos zu während mein Land von Feinden überollt wird?"
+"du ich sehe Tatenlos zu, während mein Land von Feinden überollt wird?"
 
 #: Eliador/scenarios/eliador-varad.cfg:196
 msgid ""
@@ -1098,7 +1089,7 @@ msgid ""
 "suggest you and your kids leave this island before more lives are wasted."
 msgstr ""
 "Sieben kräftige Krieger wurden unter deinem Kommando getötet, Ardella. Ich "
-"schlage vor, das du und deine Kinder die Insel verlasst, bevor nochmehr "
+"schlage vor, dass du und deine Kinder die Insel verlasst, bevor nochmehr "
 "Leben verschwendet werden."
 
 #: Eliador/scenarios/eliador-varad.cfg:222
@@ -1148,7 +1139,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-varad.cfg:296
 msgid "Zara! Baringa! Echla!"
-msgstr ""
+msgstr "Zara! Baringa! Echla!"
 
 #: Eliador/scenarios/eliador-varad.cfg:327
 msgid ""
@@ -1160,7 +1151,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-varad.cfg:347
 msgid "Platu! Verata! Bichtu!"
-msgstr ""
+msgstr "Platu! Verata! Bichtu!"
 
 #: Eliador/scenarios/eliador-varad.cfg:352
 msgid ""
@@ -1176,14 +1167,13 @@ msgstr "Eliador Gorgonit"
 
 #: Eliador/units/Eliador_Cockatrice.cfg:17
 msgid "These cockatrices have a melee attack."
-msgstr "Diese Gorgoniten haben "
+msgstr "Diese Gorgoniten haben eine erhöhte Treffsicherheit."
 
 #: Eliador/units/Eliador_Horse.cfg:4
 msgid "Eliador Horse"
 msgstr "Eliador Pferd"
 
 #: Eliador/units/Eliador_Horse.cfg:18
-#, fuzzy
 msgid "Horses do not have an attack."
 msgstr "Pferde können nicht angreifen."
 
