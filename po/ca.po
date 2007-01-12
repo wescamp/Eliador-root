@@ -1,22 +1,30 @@
+#
+# Catalan translations for Battle for Wesnoth package.
+# Copyright (C) 2006 Wesnoth development team
+# This file is distributed under the same license as the Battle for
+# Wesnoth package.
+#
+# Jose Gordillo, 2006.
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: wescamp-i18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-12 18:38+0100\n"
-"PO-Revision-Date: 2005-07-25 14:58+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2007-01-11 20:43+0100\n"
+"Last-Translator: Jose Gordillo <kilder@hotmail.com>\n"
+"Language-Team: Català <wesnoth-ca@ettin.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: Eliador.cfg:8 Eliador/scenarios/eliador-home.cfg:5
 msgid "Invasion of Eliador"
-msgstr ""
+msgstr "La invasió d'Eliador"
 
 #: Eliador.cfg:11
 msgid " (Version"
-msgstr ""
+msgstr " (Versió"
 
 #: Eliador.cfg:11
 msgid ""
@@ -24,20 +32,25 @@ msgid ""
 "the eastern shore. It is up to a family of outlaws to warn the island's "
 "inhabitants before it's too late."
 msgstr ""
+"Uns enemics desconeguts estan a punt d'envair una pacífica illa. Serà la "
+"tasca d'una família de proscrits avisar tots els habitants de l'illa abans "
+"que siga massa tard."
 
 #: Eliador.cfg:16
 msgid ""
 "&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-outlaw-"
 "queen.png=Hard"
 msgstr ""
+" &footpad-toddler.png=Fàcil;*&outlaw-princess-kid.png=Normal;&neutral-outlaw-"
+"queen.png=Difícil"
 
 #: Eliador/scenarios/eliador-anwar.cfg:5
 msgid "Caves of Anwar"
-msgstr ""
+msgstr "Les coves d'Anwar"
 
 #: Eliador/scenarios/eliador-anwar.cfg:111
 msgid "Get kids close to monsters to recruit them"
-msgstr ""
+msgstr "Arrima els xiquets als monstres per reclutar-los"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:149
 #: Eliador/scenarios/eliador-varad.cfg:116
@@ -59,103 +72,116 @@ msgstr "Fi dels torns"
 #: Eliador/scenarios/eliador-sinon.cfg:209
 #: Eliador/scenarios/eliador-gold.cfg:101
 msgid "Death of Ardella, Anna or Zeke"
-msgstr ""
+msgstr "Mort d'Ardella, Anna o Zeke"
 
 #: Eliador/scenarios/eliador-anwar.cfg:191
 msgid ""
 "We will now enter the caves of Anwar. There are powerful beasts here that "
 "can prove useful to us. We must find a way to earn their trust."
 msgstr ""
+"Ara entrarem dins les coves d'Anwar. Hi ha unes poderoses bèsties allà dins "
+"que ens poden ser útils. Hem de buscar la manera de guanyar-nos la seua "
+"confiança."
 
 #: Eliador/scenarios/eliador-anwar.cfg:196
 msgid "But, mother, I'm scared! They'll kill us!"
-msgstr ""
+msgstr "Però... Mare, tinc por! Ens mataran!"
 
 #: Eliador/scenarios/eliador-anwar.cfg:201
 msgid ""
 "As long as we keep a safe distance, they will not harm us. However, I fear "
 "that since I am armed, they might instinctively attack me."
 msgstr ""
+"Mentre mantinguem les distàncies, no ens atacaran. Tanmateix, tem que, donat "
+"que estic armada, m'atacaran instintivament."
 
 #: Eliador/scenarios/eliador-anwar.cfg:206
 msgid "Then drop your weapon."
-msgstr ""
+msgstr "Aleshores solta l'arma."
 
 #: Eliador/scenarios/eliador-anwar.cfg:211
 msgid "I cannot. The caves are too perilous."
-msgstr ""
+msgstr "No puc. Les coves són massa perilloses."
 
 #: Eliador/scenarios/eliador-anwar.cfg:216
 msgid "Then we will help you, momma!"
-msgstr ""
+msgstr "Nosaltres t'ajudarem, mare!"
 
 #: Eliador/scenarios/eliador-balas.cfg:5
 msgid "Prisoners of Balas"
-msgstr ""
+msgstr "Presoners de Balas"
 
 #: Eliador/scenarios/eliador-balas.cfg:93
 msgid "Hint: Don't listen to your mother"
-msgstr ""
+msgstr "Consell: No li fages cas a ta mare"
 
 #: Eliador/scenarios/eliador-balas.cfg:95
 msgid "Kill all enemies on the northeastern isle to free the prisoners."
 msgstr ""
+"Mata tots els enemics de l'illa al nord-est per alliberar els presoners."
 
 #: Eliador/scenarios/eliador-balas.cfg:165
 msgid "Momma, that's the bad man who took papa!"
-msgstr ""
+msgstr "Mare, aquell és l'home roin que va capturar el pare!"
 
 #: Eliador/scenarios/eliador-balas.cfg:170
 msgid "Who are these fools trespassing on my master's island?"
-msgstr ""
+msgstr "Qui són eixos estúpids que creuen l'illa del meu mestre?"
 
 #: Eliador/scenarios/eliador-balas.cfg:175
 msgid ""
 "Kids, you wait here and stay out of trouble. I'll find out where your father "
 "is."
 msgstr ""
+"Xiquets, quedeu-vos aquí i no us fiqueu en cap problema. Jo trobaré on és el "
+"pare."
 
 #: Eliador/scenarios/eliador-balas.cfg:180
 msgid "Hey, Zeke, do you wanna go swimming?"
-msgstr ""
+msgstr "Ei, Zeke, vols anar a nadar?"
 
 #: Eliador/scenarios/eliador-balas.cfg:185
 msgid "Stay out of the water! Just stay put!"
-msgstr ""
+msgstr "Quedeu-vos parats! Fora de l'aigua!"
 
 #: Eliador/scenarios/eliador-balas.cfg:233
 msgid "Wow! A sea serpent!"
-msgstr ""
+msgstr "Wow! Una serp marina!"
 
 #: Eliador/scenarios/eliador-balas.cfg:237
 msgid "What are human children doing in my water?"
-msgstr ""
+msgstr "Què estan fent uns xiquets humans dins les meues aigües?"
 
 #: Eliador/scenarios/eliador-balas.cfg:241
 msgid ""
 "We're looking for our papa. When we find him, we're going to kill all the "
 "bad guys!"
-msgstr ""
+msgstr "Estem buscant el pare. Quan el trobem, matarem tots els malvats!"
 
 #: Eliador/scenarios/eliador-balas.cfg:245
 msgid ""
 "You're a brave little boy. Rest assured, the sea creatures of Eliador are "
 "doing everything we can to stop the approaching galleons."
 msgstr ""
+"Eres un xiquet valent. Tranquil, les criatures marines d'Eliador estan fet "
+"tot allò que podem per detenir els gal·leons dels invasors."
 
 #: Eliador/scenarios/eliador-balas.cfg:249
 msgid ""
 "If you wish to fight them when they reach the shore, then you must free the "
 "warriors being held captive. Come with me and I will help you free them."
 msgstr ""
+"Si voleu lluitar contra ells quan arriben a les platges, haureu d'alliberar "
+"els guerrers als quals mantenen captius en aquella illa. Pugeu damunt meu i "
+"us ajudaré a alliberar-los."
 
 #: Eliador/scenarios/eliador-balas.cfg:282
 msgid "Bill, where is Zilead?"
-msgstr ""
+msgstr "Bill, on és Zilead?"
 
 #: Eliador/scenarios/eliador-balas.cfg:286
 msgid "Go to hell!"
-msgstr ""
+msgstr "Ves-te'n a l'infern!"
 
 #: Eliador/scenarios/eliador-balas.cfg:306
 msgid ""
@@ -163,31 +189,38 @@ msgid ""
 "underestimated them. We must join them. Together, we can end our master's "
 "evil crusade."
 msgstr ""
+"Els illencs han amassat un gran exèrcit. El nostre cap no hauria d'haver-los "
+"subestimat. Hem d'unir-nos a ells. Junts, podem acabar amb la malvada "
+"creuada del nostre cap."
 
 #: Eliador/scenarios/eliador-balas.cfg:311
 msgid "Are you mad? If we betray our master, we will meet certain death."
-msgstr ""
+msgstr "Esteu bojos? Si traïm el cap, trobarem una mort segura."
 
 #: Eliador/scenarios/eliador-balas.cfg:316
 msgid ""
 "Aye, but we are defeated. Our master will most certainly slay us if we "
 "surrender to the islanders. If I am to die, then I choose to die with honor!"
 msgstr ""
+"Sí, però ja estem derrotats. El cap ens matarà si ens rendim als illencs. Si "
+"he de morir, preferisc fer-ho amb honor!"
 
 #: Eliador/scenarios/eliador-balas.cfg:321
 msgid ""
 "We will not surrender! All islanders and turncoats will die by my sword!"
-msgstr ""
+msgstr "No ens rendirem! La meua espasa matarà tots els illencs i traïdors!"
 
 #: Eliador/scenarios/eliador-balas.cfg:377
 msgid ""
 "Now, that these warriors are free, I shall head east to try to stop those "
 "galleons. Good luck, children!"
 msgstr ""
+"Ara que ja hem alliberat eixos guerrers, aniré cap a l'est per intentar "
+"aturar aquestos gal·leons. Bona sort, xiquets!"
 
 #: Eliador/scenarios/eliador-balas.cfg:396
 msgid "Bye!"
-msgstr ""
+msgstr "Adéu!"
 
 #: Eliador/scenarios/eliador-balas.cfg:402
 msgid ""
@@ -195,69 +228,76 @@ msgid ""
 "before we were abducted. We had ordered them to flee the island, but some "
 "loyalists might still be there. We must go to them."
 msgstr ""
+"Gràcies per alliberar-nos. La nostra gent estava reunida en la costa del sud-"
+"est abans que ens segrestaren. Els vam ordenar que abandonaren l'illa, però "
+"potser que alguns lleials encara romanguen. Hem d'anar a per ells."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:5
 msgid "Elves of Glorienda"
-msgstr ""
+msgstr "Elfs de Glorienda"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:41
 msgid "Visit villages until turns run out"
-msgstr ""
+msgstr "Ves visitant els llogarets fins que s'acaben els torns"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:65
 msgid "Momma, the bad men didn't take papa here!"
-msgstr ""
+msgstr "Mare, els malvats no van portar el pare ací!"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:70
 msgid "I know, son, but we can't get daddy back without some help."
-msgstr ""
+msgstr "Ja ho sé, fill meu, però no podem alliberar el pare sense ajuda."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:75
 msgid "Do you think the elves will help us?"
-msgstr ""
+msgstr "Penses que els elfs ens ajudaran?"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:80
 msgid "Of course they will."
-msgstr ""
+msgstr "Segur que ho faran."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:91
 msgid "The dragon can visit the villages in the mountain."
-msgstr ""
+msgstr "El drac pot visitar els llogarets de les muntanyes."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:95
 msgid "Good idea, son."
-msgstr ""
+msgstr "Bona idea, fill."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:143
 msgid "Merith"
-msgstr ""
+msgstr "Merith"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:144
 msgid "Ilalya"
-msgstr ""
+msgstr "Ilalya"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:146
 #: Eliador/scenarios/eliador-glorienda.cfg:149
 msgid "Larien"
-msgstr ""
+msgstr "Larien"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:150
 msgid "Fawien"
-msgstr ""
+msgstr "Fawien"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:161
 msgid ""
 "Dragon of Anwar, you are not welcome here. I command you to join the sea "
 "creatures in their battle against the galleons. Leave now!"
 msgstr ""
+"Drac d'Anwar, no ets benvingut aquí. T'ordene que t'unisques a les criatures "
+"marines en la seua batalla contra els gal·leons. Ves-te'n ja!"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:184
 msgid "Lady Ardella, it was unwise of you to bring a dragon to my land."
 msgstr ""
+"Ardella, no ha sigut una decisió molt sàvia traure un drac a les meues "
+"terres."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:188
 msgid "Please, I only..."
-msgstr ""
+msgstr "Per favor, jo només..."
 
 #: Eliador/scenarios/eliador-glorienda.cfg:194
 msgid ""
@@ -266,36 +306,41 @@ msgid ""
 "few days behind the enemy galleons. I will help you and the others hold them "
 "off until they arrive."
 msgstr ""
+"Ardella, ja hem notificat als elfs de Wesnoth la invasió de l'illa. Kinowyn "
+"i les seues forces ja venen de camí, però van uns pocs dies per darrere dels "
+"gal·leons enemics. Uns quants t'ajudarem a resistir mentrestant."
 
 #: Eliador/scenarios/eliador-gold.cfg:5
 msgid "Zilead's Gold"
-msgstr ""
+msgstr "L'or de Zilead"
 
 #: Eliador/scenarios/eliador-gold.cfg:97
 msgid "Move Ardella to the treasure chest and then back to the entrance"
-msgstr ""
+msgstr "Mou Ardella al cofre del tresor i torna a l'entrada"
 
 #: Eliador/scenarios/eliador-gold.cfg:147
 msgid "Momma, papa told us never to come in here."
-msgstr ""
+msgstr "Mare, el pare ens va dir que mai entràrem ací."
 
 #: Eliador/scenarios/eliador-gold.cfg:152
 msgid "This is where your father keeps his treasure."
-msgstr ""
+msgstr "Ací és on el pare guarde el seu tresor."
 
 #: Eliador/scenarios/eliador-gold.cfg:157
 msgid "Papa said that anyone who enters this cave will die!"
-msgstr ""
+msgstr "El pare va dir que qualsevol que entre ací morirà!"
 
 #: Eliador/scenarios/eliador-gold.cfg:162
 msgid ""
 "Nonsense. Your father was just trying to scare you. Anyway, I have the key "
 "to the treasure chest, so I will get the gold myself."
 msgstr ""
+"Ximpleries. El pare només intentava donar-vos por. De tota manera, tinc la "
+"clau del cofre, així que jo mateixa agafaré l'or."
 
 #: Eliador/scenarios/eliador-gold.cfg:193
 msgid "I hope this is enough gold."
-msgstr ""
+msgstr "Espere que amb açò en tinguem prou."
 
 #: Eliador/scenarios/eliador-gold.cfg:237
 msgid ""
@@ -303,126 +348,150 @@ msgid ""
 "to steal Zilead's gold and I watched as the sharks feasted upon their flesh. "
 "You will not make it out of here alive without my help."
 msgstr ""
+"Ardella, què estàs fent en aquesta cova? He vist la mort d'incomptables "
+"hòmens que intentaven apoderar-se de l'or de Zilead i cóm els taurons "
+"devoraven la seua carn. No eixiràs viva d'aquí sense la meua ajuda."
 
 #: Eliador/scenarios/eliador-heldurin.cfg:5
 msgid "Heldurin's Honor"
-msgstr ""
+msgstr "L'honor d'Heldurin"
 
 #: Eliador/scenarios/eliador-heldurin.cfg:42
 msgid "Give peasants 500 pieces of gold"
-msgstr ""
+msgstr "Entrega 500 peces d'or als camperols"
 
 #: Eliador/scenarios/eliador-heldurin.cfg:75
 msgid ""
 "Greetings, Ardella. We would very much like to help you fight off the "
 "invaders, but we've decided that we must get our families off this island."
 msgstr ""
+"Benvinguda, Ardella. Ens agradaria molt ajudar-te a rebutjar els invasors, "
+"però hem decidit que hem d'aconseguir que les nostres famílies abandonen "
+"l'illa."
 
 #: Eliador/scenarios/eliador-heldurin.cfg:79
 msgid ""
 "However, we would be willing to fight if you can ensure that our families "
 "will have enough gold to make it to Akhban."
 msgstr ""
+"Tanmateix, estaríem disposats a lluitar si ens pots assegurar que les "
+"nostres famílies tindran prou or com per a arribar a Akhban."
 
 #: Eliador/scenarios/eliador-heldurin.cfg:83
 msgid "I shall return with your gold."
-msgstr ""
+msgstr "Tornaré amb l'or."
 
 #: Eliador/scenarios/eliador-heldurin.cfg:111
 msgid ""
 "Five hundred pieces of gold is more than enough to ensure that our families "
 "reach Akhban."
 msgstr ""
+"Cinc-centes peces d'or és més que suficient per assegurar el viatge de les "
+"nostres famílies cap a Akhban."
 
 #: Eliador/scenarios/eliador-heldurin.cfg:115
 msgid ""
 "Yes, now we will help you defeat the enemy so that our families can return "
 "home."
 msgstr ""
+"Sí, ara t'ajudarem a derrotar l'enemic per tal que les nostres famílies "
+"puguen tornar a casa."
 
 #: Eliador/scenarios/eliador-home.cfg:99
 msgid ""
 "Ardella! You cannot win this battle! Surrender now, and my master will "
 "arrange safe passage for you and your children to Wesnoth."
 msgstr ""
+"Ardella! No pots guanyar aquesta batalla! Rendix-te ara i el meu cap et "
+"preparà un salconduit per tu i els teus xiquets cap a Wesnoth."
 
 #: Eliador/scenarios/eliador-home.cfg:109
 msgid "Randalf? How is this possible? You should be dead!"
-msgstr ""
+msgstr "Randalf? Com pot ser açò possible? Hauries de ser mort!"
 
 #: Eliador/scenarios/eliador-home.cfg:115
 msgid "I will never surrender!"
-msgstr ""
+msgstr "No mai em rendiré!"
 
 #: Eliador/scenarios/eliador-home.cfg:119
 msgid ""
 "What if I told you Zilead is awaiting your arrival? It is your choice. You "
 "can either start a new life in Wesnoth, or you can die here."
 msgstr ""
+"Què passaria si et diguera que Zilead t'espera? És la teua decisió. Pots "
+"començar una nova vida en Wesnoth o pots morir aquí."
 
 #: Eliador/scenarios/eliador-home.cfg:121
 msgid "Continue fighting"
-msgstr ""
+msgstr "Continue lluitant"
 
 #: Eliador/scenarios/eliador-home.cfg:125
 msgid "You disappoint me."
-msgstr ""
+msgstr "Em deceps."
 
 #: Eliador/scenarios/eliador-home.cfg:132
 msgid ""
 "Master, I promised Zilead I would protect his family. You must not harm "
 "Ardella or her children. Do with the others as you please."
 msgstr ""
+"Cap, vaig prometre a Zilead que protegiria la seua família. No has de fer "
+"cap mal a Ardella o els seus xiquets. Fes el que vulgues amb la resta."
 
 #: Eliador/scenarios/eliador-home.cfg:137
 msgid "You made your offer and she refused it. Therefore, she must die!"
-msgstr ""
+msgstr "Li has fet una oferta i l'ha rebutjada. Aleshores, deu morir!"
 
 #: Eliador/scenarios/eliador-home.cfg:160
 msgid ""
 "Randalf! How could you participate in this genocide? Surely, you must know "
 "that your old master has gone insane? And yet you still obey her?"
 msgstr ""
+"Randalf! Com has pogut participar en tot aquest genocidi? No saps que el teu "
+"cap ha esdevingut un boig? I encara la obeïxes?"
 
 #: Eliador/scenarios/eliador-home.cfg:165
 msgid "You should not have left Wesnoth, Kinowyn!"
-msgstr ""
+msgstr "No deuries haver abandonat Wesnoth, Kinowyn!"
 
 #: Eliador/scenarios/eliador-home.cfg:172
 msgid "Surrender"
-msgstr ""
+msgstr "Em rendisc"
 
 #: Eliador/scenarios/eliador-home.cfg:176
 msgid ""
 "Wise decision. I will go with you to ensure that you reach Wesnoth safely."
 msgstr ""
+"Una sàvia decisió. Aniré amb tu per assegurar que arribes segura a Wesnoth."
 
 #: Eliador/scenarios/eliador-home.cfg:180
 msgid "Why didn't you inform me of Zilead's whereabouts sooner?"
-msgstr ""
+msgstr "Per què no em vas informar de la ubicació de Zilead abans?"
 
 #: Eliador/scenarios/eliador-home.cfg:184
 msgid ""
 "Because my master wanted you to expose everyone who might try to repel the "
 "invasion. I'm afraid you've inadvertantly led the sheep to the slaughter."
 msgstr ""
+"Perquè el cap va voler que exposares a tots aquells que podrien intentar "
+"rebutjar la invasió. Tem que has conduït les ovelles a l'escorxador sense "
+"voler."
 
 #: Eliador/scenarios/eliador-home.cfg:188
 msgid "What will become of the residents of Eliador?"
-msgstr ""
+msgstr "I què serà dels residents d'Eliador?"
 
 #: Eliador/scenarios/eliador-home.cfg:192
 msgid ""
 "That's no concern of yours. Now let's not keep Zilead waiting much longer."
-msgstr ""
+msgstr "Això no és la teua preocupació. No fem esperar més a Zilead."
 
 #: Eliador/scenarios/eliador-home.cfg:196
 msgid "Come on, kids. We're going to Wesnoth."
-msgstr ""
+msgstr "Vinga, xiquets. Anem a Wesnoth."
 
 #: Eliador/scenarios/eliador-home.cfg:209
 msgid "Dwarves? How can such noble beings fight alongside orcs?"
-msgstr ""
+msgstr "Nans? Què fan uns éssers tan nobles lluitant amb orcs?"
 
 #: Eliador/scenarios/eliador-home.cfg:213
 msgid ""
@@ -430,34 +499,39 @@ msgid ""
 "Wesnoth. Our new master promised us land and wealth if we fight alongside "
 "these vermin."
 msgstr ""
+"Si tant vols saber-ho, vam acabar desesperats després d'haver sigut "
+"expulsats de les nostres cases en Wesnoth. El nostre nou cap ens va prometre "
+"terres i riqueses i lluitàvem al costat d'aquestes bestioles."
 
 #: Eliador/scenarios/eliador-home.cfg:217
 msgid "We'll offer the same deal if you fight with us."
-msgstr ""
+msgstr "Us oferim el mateix tracte si lluiteu amb nosaltres."
 
 #: Eliador/scenarios/eliador-home.cfg:221
 msgid ""
 "Ha! We dwarves are a brave bunch, but we would not stand a chance against "
 "our master. I'm sorry, but you must all die!"
 msgstr ""
+"Ha! Els nans som tots un grup de valents, però no tenim cap possibilitat "
+"contra el nostre cap. Ho sent, però tots haveu de morir!"
 
 #: Eliador/scenarios/eliador-home.cfg:237
 msgid "We cannot win this battle! There are too many of them."
-msgstr ""
+msgstr "No podem guanyar aquesta batalla! Són massa!"
 
 #: Eliador/scenarios/eliador-home.cfg:259
 msgid "Othello, you scaredy-cat!"
-msgstr ""
+msgstr "Othello, maleït covard!"
 
 #: Eliador/scenarios/eliador-home.cfg:264
 msgid ""
 "The time has come for me to abolish the law of Illien. Slaves of Illien, I "
 "release you!"
-msgstr ""
+msgstr "És l'hora d'abolir la llei d'Illien. Esclaus d'Illien, us allibere!"
 
 #: Eliador/scenarios/eliador-home.cfg:280
 msgid "Now let's slay those villainous creatures!"
-msgstr ""
+msgstr "Ara matem tots eixes criatures malvades!"
 
 #: Eliador/scenarios/eliador-home.cfg:301
 msgid ""
@@ -465,188 +539,215 @@ msgid ""
 "dare you interfere with my master's plan! Tonight, we shall feast upon your "
 "flesh!"
 msgstr ""
+"No em puc creure que els meus orcs van ser vençuts per una humana i els seus "
+"dos xiquets. Cóm us atreviu a interferir en el pla del cap?! Aquesta nit "
+"devorarem la vostra carn!"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:108
 #: Eliador/scenarios/eliador-home.cfg:466
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #: Eliador/scenarios/eliador-home.cfg:467
 msgid "Zilead"
-msgstr ""
+msgstr "Zilead"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:111
 #: Eliador/scenarios/eliador-home.cfg:468
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #: Eliador/scenarios/eliador-home.cfg:510
 msgid "Kill Ursula"
-msgstr ""
+msgstr "Mata Úrsula"
 
 #: Eliador/scenarios/eliador-home.cfg:528
 msgid "Traverse all paths (move Ardella to signposts)"
-msgstr ""
+msgstr "Mou-te per tots els camins (mou Ardella als senyals)"
 
 #: Eliador/scenarios/eliador-home.cfg:557
 msgid "Papa, can you tell me about Wesnoth again?"
-msgstr ""
+msgstr "Pare, pots parlar-nos de Wesnoth una altra vegada?"
 
 #: Eliador/scenarios/eliador-home.cfg:561
 msgid "Well, what do you want to..."
-msgstr ""
+msgstr "Bé, què voleu..."
 
 #: Eliador/scenarios/eliador-home.cfg:565
 msgid "Papa?"
-msgstr ""
+msgstr "Pare?"
 
 #: Eliador/scenarios/eliador-home.cfg:569
 msgid "Son, we must go home immediately."
-msgstr ""
+msgstr "Fill, hem de tornar a casa immediatament."
 
 #: Eliador/scenarios/eliador-home.cfg:573
 msgid "Why?... What are you looking at?"
-msgstr ""
+msgstr "Per què? Què estàs mirant?"
 
 #: Eliador/scenarios/eliador-home.cfg:577
 msgid "At least three dozen galleons headed this way!"
-msgstr ""
+msgstr "Tres dotzenes de gal·leons venen en aquesta direcció!"
 
 #: Eliador/scenarios/eliador-home.cfg:586
 msgid "Well, well, Zilead, it's been a long time."
-msgstr ""
+msgstr "Bé, bé, bé... Zilead, ja feia un bon temps."
 
 #: Eliador/scenarios/eliador-home.cfg:590
 msgid "How did you find me?"
-msgstr ""
+msgstr "Cóm m'has trobat?"
 
 #: Eliador/scenarios/eliador-home.cfg:594
 msgid ""
 "Our master is taking over this island. Our orders are to eliminate anyone "
 "who might stand in her way. Finding you here was just an unexpected surprise."
 msgstr ""
+"El nostre cap està envaint aquesta illa. Les nostres ordres són eliminar "
+"qualsevol que puga ficar-se pel mig. Trobar-me amb tu aquí ha sigut una "
+"sorpresa inesperada."
 
 #: Eliador/scenarios/eliador-home.cfg:598
 msgid "Run home, son!"
-msgstr ""
+msgstr "Ves a casa, fill!"
 
 #: Eliador/scenarios/eliador-home.cfg:702
 msgid "Go there"
-msgstr ""
+msgstr "Ves aquí"
 
 #: Eliador/scenarios/eliador-home.cfg:736
 msgid "Stay here"
-msgstr ""
+msgstr "Queda't aquí"
 
 #: Eliador/scenarios/eliador-home.cfg:752
 msgid ""
 "Glorienda is where the elves of Eliador reside. Atop a mountain, reachable "
 "only by creatures of flight, you will find four elvish enchantresses."
 msgstr ""
+"Glorienda és on habiten els elfs d'Eliador. Damunt de la muntanya, on només "
+"poden arribar les criatures voladores, trobaràs quatre encantadores elfes."
 
 #: Eliador/scenarios/eliador-home.cfg:753
 msgid ""
 "There are three powerful but gentle beasts living in the caves of Anwar."
 msgstr ""
+"En les coves d'Anwar habiten tres poderoses, encara que gentils, bèsties."
 
 #: Eliador/scenarios/eliador-home.cfg:754
 msgid ""
 "A group of horsemen live just south of Eliador's only volcano, Mt. Sinon."
 msgstr ""
+"Un grup de genets viuen just al sud de l'únic volcà d'Eliador, Mont Sinon."
 
 #: Eliador/scenarios/eliador-home.cfg:755
 msgid "Heldurin is the poorest area of Eliador."
-msgstr ""
+msgstr "Heldurin és l'àrea més pobre d'Eliador."
 
 #: Eliador/scenarios/eliador-home.cfg:756
 msgid ""
 "Illien is ruled by Othello, a mad sorcerer who will attempt to steal the "
 "soul of any trespasser."
 msgstr ""
+"Illien és governada per Othello, un fetiller boig que intentarà furtar "
+"l'ànima de qualsevol caminant."
 
 #: Eliador/scenarios/eliador-home.cfg:756
 msgid "We need at least 18 units to defeat Othello."
-msgstr ""
+msgstr "Necessitem al menys 18 unitats per derrotar Othello."
 
 #: Eliador/scenarios/eliador-home.cfg:757
 msgid ""
 "Dol Kelroth is the most populated area of Eliador. Urian, the lord of the "
 "sky, lives on a small island just south of the territory."
 msgstr ""
+"Dol Kelroth és l'àrea més poblada d'Eliador. Urian, el senyor del cel viu en "
+"una xicoteta illa just al sud del territori."
 
 #: Eliador/scenarios/eliador-home.cfg:757
 msgid ""
 "The residents of Dol Kelroth have mysteriously disappeared. We will visit "
 "this area at a later time."
 msgstr ""
+"Els residents de Dol Kelroth han desaparegut misteriosament. Visitarem "
+"aquesta àrea després."
 
 #: Eliador/scenarios/eliador-home.cfg:758
 msgid ""
 "Bill and his men took Zilead to this territory. Balas was once home to a "
 "group of powerful warriors. The fate of these warriors is unknown."
 msgstr ""
+"Bill i els seues hòmens van endur-se Zilead al seu territori. Balas va ser "
+"temps enrere la casa d'un valerós grup de poderosos guerrers. Tanmateix, "
+"ningú no coneix el destí d'aquestos guerrers."
 
 #: Eliador/scenarios/eliador-home.cfg:759
 msgid ""
 "There is a fell voice on the air. We should not venture this path at the "
 "present time."
-msgstr ""
+msgstr "Hi ha una suau veu en l'aire. No hauríem de triar aquest camí per ara."
 
 #: Eliador/scenarios/eliador-home.cfg:759
 msgid ""
 "A wise and powerful wizard lives on an island southeast of this unpopulated "
 "region. Othello is the only man on this island impervious to his magic."
 msgstr ""
+"Un poderós i savi bruixot viu en una illa al sud-est d'aquesta regió "
+"despoblada. Othello és l'únic home d'aquesta illa immune a la seua màgia."
 
 #: Eliador/scenarios/eliador-home.cfg:760
 msgid ""
 "Rumor has it that any man who attempts to steal Zilead's gold will not make "
 "it out of the cave alive."
 msgstr ""
+"Es diu que tot aquell home que intente robar l'or de Zilead no eixirà viu de "
+"la caverna."
 
 #: Eliador/scenarios/eliador-home.cfg:777
 msgid ""
 "Foolish wizard. I knew you would betray me! Your magic will not work while "
 "I'm around!"
 msgstr ""
+"Estúpid bruixot. Sabia que em trairies!  La teua màgia no funcionarà mentre "
+"jo siga prop!"
 
 #: Eliador/scenarios/eliador-home.cfg:818
 msgid "How dare you attack |{DESC}|! You leave me no choice, Ursula!"
-msgstr ""
+msgstr "Com t'atreveixes a atacar |{DESC}|! No em deixes alternativa, Úrsula!"
 
 #: Eliador/scenarios/eliador-home.cfg:846
 msgid "What have I done? Master, I cannot slay Zilead's family!"
-msgstr ""
+msgstr "Què he fet? Cap, no puc matar la família de Zilead!"
 
 #: Eliador/scenarios/eliador-home.cfg:969
 msgid "No! Randalf is dead!"
-msgstr ""
+msgstr "No! Randalf ha mort!"
 
 #: Eliador/scenarios/eliador-home.cfg:981
 msgid "We have slain Randalf! Surrender now, witch, or you'll be next!"
-msgstr ""
+msgstr "Hem mort Randalf! Rendix-te ara, bruixa, o el seguiràs!"
 
 #: Eliador/scenarios/eliador-home.cfg:993
 msgid "You will be missed, Othello of Illien."
-msgstr ""
+msgstr "Se't trobarà a faltar, Othello d'Illien."
 
 #: Eliador/scenarios/eliador-home.cfg:1005
 msgid "We did it, momma! The witch is dead!"
-msgstr ""
+msgstr "Ho hem fet, mare! La bruixa és morta!"
 
 #: Eliador/scenarios/eliador-home.cfg:1009
 msgid "Let's go to Wesnoth and bring father home."
-msgstr ""
+msgstr "Tornem a Wesnoth i portem el pare a casa."
 
 #: Eliador/scenarios/eliador-home.cfg:1013
 msgid ""
 "Yes, we will go to Wesnoth. But we shall never return to this godforsaken "
 "place again."
 msgstr ""
+"Sí, anirem a Wesnoth. Però no tornarem a aquest lloc perdut en la Terra de "
+"nou."
 
 #: Eliador/scenarios/eliador-home.cfg:1017
 msgid "Why, momma?"
-msgstr ""
+msgstr "Per què, mare?"
 
 #: Eliador/scenarios/eliador-home.cfg:1021
 msgid ""
@@ -654,46 +755,49 @@ msgid ""
 "Wesnoth. But this place is no longer the safe haven it once was. Ursula's "
 "allies will avenge her death."
 msgstr ""
+"Fa sis anys, el pare i jo vam vindre a Eliador per escapar de les guerres de "
+"Wesnoth. Però ara aquest lloc ja no serà el refugi que era. Els aliats "
+"d'Úrsula venjaran la seua mort."
 
 #: Eliador/scenarios/eliador-home.cfg:1025
 msgid "Now, we must make haste. Your father is waiting for us."
-msgstr ""
+msgstr "Ara, hem de donar-nos presa. El pare ens espera."
 
 #: Eliador/scenarios/eliador-home.cfg:1029
 msgid "Yay, we're going to Wesnoth!"
-msgstr ""
+msgstr "Sí, anem a Wesnoth!"
 
 #: Eliador/scenarios/eliador-home.cfg:1042
 #: Eliador/scenarios/eliador-utils.cfg:286
 #: Eliador/scenarios/eliador-utils.cfg:292
 msgid "Mother, you can't die! Please don't leave us!"
-msgstr ""
+msgstr "Mare, no pots morir! Per favor, no ens abandones!"
 
 #: Eliador/scenarios/eliador-home.cfg:1054
 #: Eliador/scenarios/eliador-utils.cfg:306
 msgid "Anna! How can I go on living now that my only daughter is gone?"
-msgstr ""
+msgstr "Anna! Cóm puc seguir vivint si la meua única filla no hi és?"
 
 #: Eliador/scenarios/eliador-home.cfg:1066
 msgid "I have failed to protect my family."
-msgstr ""
+msgstr "He fallat a protegir la meua família."
 
 #: Eliador/scenarios/eliador-illien.cfg:5
 msgid "Othello of Illien"
-msgstr ""
+msgstr "Othello d'Illien"
 
 #: Eliador/scenarios/eliador-illien.cfg:228
 msgid "You don't lose Anna or Zeke"
-msgstr ""
+msgstr "No perds Anna o Zeke"
 
 #: Eliador/scenarios/eliador-illien.cfg:232
 msgid "You lose Anna or Zeke"
-msgstr ""
+msgstr "Perds Anna o Zeke"
 
 #: Eliador/scenarios/eliador-varad.cfg:185
 #: Eliador/scenarios/eliador-illien.cfg:305
 msgid "Othello"
-msgstr ""
+msgstr "Othello"
 
 #: Eliador/scenarios/eliador-illien.cfg:772
 msgid ""
@@ -701,70 +805,81 @@ msgid ""
 "skeletons that you've won, and I'll keep any man or creature that you've "
 "lost. Goodbye."
 msgstr ""
+"Ben fet, Ardella, has protegit els xiquets. Pots quedar-te amb els esquelets "
+"que has guanyat, jo hem quedaré amb cap home o criatura que hages perdut. "
+"Adéu."
 
 #: Eliador/scenarios/eliador-illien.cfg:785
 msgid ""
 "You've sacrificed your children in an attempt to save your soldiers. Your "
 "heart is even colder than mine."
 msgstr ""
+"Has sacrificat els teus fills per salvar els teus soldats. El teu cor és més "
+"gelat fins i tot que el meu."
 
 #: Eliador/scenarios/eliador-illien.cfg:810
 msgid "Ardella, I'm sure you're aware of the law of Illien. Are you prepared?"
-msgstr ""
+msgstr "Ardella, estic segur que coneixes la llei d'Illien. Estàs preparada?"
 
 #: Eliador/scenarios/eliador-illien.cfg:815
 msgid ""
 "You must know by now that we are about to be invaded. We don't have time for "
 "your games. Will you help us repel the invasion?"
 msgstr ""
+"A hores d'ara ja sabràs que estem a punt de ser envaïts. No tenim temps per "
+"als teus jocs. Ens ajudaràs a rebutjar la invasió?"
 
 #: Eliador/scenarios/eliador-illien.cfg:820
 msgid ""
 "If you do not obey the law of Illien, my undead will annihilate your "
 "pathetic army. Now, let's begin, shall we?"
 msgstr ""
+"Si no obeeixes la llei d'Illien, els meus no morts aniquilaran el teu "
+"patètic exèrcit. Bé, comencem?"
 
 #: Eliador/scenarios/eliador-illien.cfg:825
 msgid "Dragon 1A"
-msgstr ""
+msgstr "Drac 1A"
 
 #: Eliador/scenarios/eliador-illien.cfg:826
 msgid "Dragon 1B"
-msgstr ""
+msgstr "Drac 1B"
 
 #: Eliador/scenarios/eliador-illien.cfg:830
 msgid "Momma, what's happening? I can't move!"
-msgstr ""
+msgstr "Mare, què passa? No em puc menejar!"
 
 #: Eliador/scenarios/eliador-illien.cfg:871
 msgid "Ahh!"
-msgstr ""
+msgstr "Ahh!"
 
 #: Eliador/scenarios/eliador-illien.cfg:876
 msgid "Your move, Ardella."
-msgstr ""
+msgstr "El teu torn, Ardella."
 
 #: Eliador/scenarios/eliador-kelroth.cfg:5
 msgid "Dol Kelroth"
-msgstr ""
+msgstr "Dol Kelroth"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:145
 msgid "Kill all enemies"
-msgstr ""
+msgstr "Mata tots els enemics"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:213
 msgid "Where is everyone?"
-msgstr ""
+msgstr "On estan tots?"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:222
 msgid "Momma!"
-msgstr ""
+msgstr "Mare!"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:226
 msgid ""
 "Urian! Please, if you are still alive, you must get my children away from "
 "these beasts!"
 msgstr ""
+"Urian! Per favor, si encara ets viu, has d'ajudar-me a allunyar els meus "
+"fills d'aquestes bèsties!"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:231
 msgid ""
@@ -772,84 +887,94 @@ msgid ""
 "If you help me defeat the orcs, my birds and I will forever be at your "
 "service."
 msgstr ""
+"Ardella, hi ha orcs per tot arreu! He manat dos grius per als teus fills. Si "
+"m'ajudeu a derrotar els orcs, les meues aus i jo estarem per sempre al "
+"vostre servei."
 
 #: Eliador/scenarios/eliador-kelroth.cfg:238
 msgid "Hurry, children! Get on the gryphons and fly somewhere safe!"
-msgstr ""
+msgstr "Ràpid, fills! Pugeu als grius i voleu a cap lloc segur!"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:243
 msgid ""
 "Ardella, the residents of Dol Kelroth have been killed and their bodies "
 "dumped in the sea."
 msgstr ""
+"Ardella, els residents de Dol Kelroth han sigut assassinats, i han llançat "
+"els seus cossos a la mar."
 
 #: Eliador/scenarios/eliador-kelroth.cfg:248
 msgid "Are you certain everyone is dead?"
-msgstr ""
+msgstr "Estàs segur que tots són morts?"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:253
 msgid ""
 "I have tried to search the sea for survivors, but neither I nor my birds can "
 "see through the dense fog."
 msgstr ""
+"He intentat explorar el mar buscant supervivents, però ni jo ni les meues "
+"aus hem aconseguit veure a través d'aquesta boira."
 
 #: Eliador/scenarios/eliador-kelroth.cfg:258
 msgid "Momma, you kill all the orcs and we'll find the survivors."
-msgstr ""
+msgstr "Mare, tu mates tots els orcs i nosaltres trobarem els supervivents."
 
 #: Eliador/scenarios/eliador-kelroth.cfg:263
 msgid "Sounds like a plan... Let's go, Zeke!"
-msgstr ""
+msgstr "Pareix una bona idea... Anem, Zeke!"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:348
 msgid "The invaders of Dol Kelroth are vanquished."
-msgstr ""
+msgstr "Hem vençut els invasors de Dol Kelroth."
 
 #: Eliador/scenarios/eliador-kelroth.cfg:380
 msgid "I am slain! Birds of Dol Kelroth, you must obey Ardella now!"
-msgstr ""
+msgstr "Morc! Aus de Dol Kelroth, haveu d'obeir Ardella ara!"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:393
 msgid "We are overrun by these loathesome creatures! We must surrender!"
-msgstr ""
+msgstr "Aquestes terribles criatures ens superen! Ens hem de rendir!"
 
 #: Eliador/scenarios/eliador-sinon.cfg:5
 msgid "Sinon's Wrath"
-msgstr ""
+msgstr "Fúria del Sinon"
 
 #: Eliador/scenarios/eliador-sinon.cfg:203
 msgid "Move horses to high ground"
-msgstr ""
+msgstr "Mou els cavalls fins a terreny elevat"
 
 #: Eliador/scenarios/eliador-sinon.cfg:249
 msgid "Momma, my ears! What was that noise?"
-msgstr ""
+msgstr "Mare, les meues orelles! Què ha sigut eixe soroll?"
 
 #: Eliador/scenarios/eliador-sinon.cfg:254
 msgid "It sounded like a..."
-msgstr ""
+msgstr "Pareixia una..."
 
 #: Eliador/scenarios/eliador-sinon.cfg:259
 msgid "It couldn't be... Mount Sinon has been dormant for three centuries..."
-msgstr ""
+msgstr "No pot ser... El Mont Sinon ha estat dormitant aquestos tres segles..."
 
 #: Eliador/scenarios/eliador-sinon.cfg:264
 msgid "Look over there, momma!"
-msgstr ""
+msgstr "Mira allà, mare!"
 
 #: Eliador/scenarios/eliador-sinon.cfg:269
 msgid "Quickly, get to the mountains!"
-msgstr ""
+msgstr "Ràpid, a les muntanyes!"
 
 #: Eliador/scenarios/eliador-sinon.cfg:417
 msgid "You have risked your lives to save our steeds. Why?"
 msgstr ""
+"Haveu arriscat les vostres vides per salvar els nostres cavalls. Per què?"
 
 #: Eliador/scenarios/eliador-sinon.cfg:421
 msgid ""
 "Because we need every man and beast on this island to fight the enemies "
 "approaching Eliador."
 msgstr ""
+"Perquè necessitem cada home i cada bèstia d'aquesta illa per a lluitar "
+"contra els enemics que s'aproximen a Eliador."
 
 #: Eliador/scenarios/eliador-sinon.cfg:425
 msgid ""
@@ -857,36 +982,42 @@ msgid ""
 "seen the number of galleons. Why don't you take your children off this "
 "island?"
 msgstr ""
+"No mai hem esquivat una lluita, així que t'ajudarem. Però hem vist el nombre "
+"de gal·leons. Per què no portes els xiquets fora de l'illa?"
 
 #: Eliador/scenarios/eliador-sinon.cfg:429
 msgid "Because they took my papa!"
-msgstr ""
+msgstr "Perquè se'n van endur el pare!"
 
 #: Eliador/scenarios/eliador-utils.cfg:268
 msgid "Both of my children have perished! I have failed them!"
-msgstr ""
+msgstr "Els dos fills meus han mort! Els he fallat!"
 
 #: Eliador/scenarios/eliador-utils.cfg:318
 msgid ""
 "I have failed to protect my family. Let's go home, Anna. We shall await the "
 "coming invasion. We shall perish."
 msgstr ""
+"He fallat a protegir la meua família. Anem a casa, Anna. Esperarem allí la "
+"invasió. Morirem."
 
 #: Eliador/scenarios/eliador-varad.cfg:5
 msgid "Randalf's Statues"
-msgstr ""
+msgstr "Les estàtues de Randalf"
 
 #: Eliador/scenarios/eliador-varad.cfg:86
 msgid "Go home to your children, Ardella... Zara! Baringa! Echla!"
-msgstr ""
+msgstr "Torna a casa amb els teus xiquets, Ardella... Zara! Baringa! Echla!"
 
 #: Eliador/scenarios/eliador-varad.cfg:108
 msgid "Kill Randalf to unstone every unit."
 msgstr ""
+"Mata Randalf per eliminar el conjur de petrificació sobre totes les unitats."
 
 #: Eliador/scenarios/eliador-varad.cfg:112
 msgid "Kill cockatrices to unstone leaders."
 msgstr ""
+"Mata els basiliscs per eliminar el conjur de petricació sobre els líders."
 
 #: Eliador/scenarios/eliador-varad.cfg:186
 msgid "Skeleton"
@@ -901,153 +1032,171 @@ msgid ""
 "I knew you couldn't be trusted, Randalf. Did you think I would sit idly by "
 "while my land is invaded?"
 msgstr ""
+"Sabia que no podia confiar en tu, Randalf. Pensaves que restaria assentat "
+"sense fer res mentre envaïu la meua terra?"
 
 #: Eliador/scenarios/eliador-varad.cfg:196
 msgid ""
 "Oh, how I've waited for this moment. Come forth, Othello of Illien! Let's "
 "see what you're made of!"
 msgstr ""
+"Oh, cóm he esperat aquest moment! Vine cap ací, Othello d'Illien! Anem a "
+"veure de quina pasta estàs fet!"
 
 #: Eliador/scenarios/eliador-varad.cfg:214
 msgid ""
 "Seven powerful warriors have been killed under your leadership, Ardella. I "
 "suggest you and your kids leave this island before more lives are wasted."
 msgstr ""
+"Set poderosos guerrers han mort a les teues ordres, Ardella. Et suggerisc "
+"que tu i els xiquets abandoneu aquesta illa abans es balafien més vides."
 
 #: Eliador/scenarios/eliador-varad.cfg:222
 msgid "What have you done, wizard? Speak!"
-msgstr ""
+msgstr "Què has fet, bruixot! Parla!"
 
 #: Eliador/scenarios/eliador-varad.cfg:227
 msgid ""
 "If you must know, my master is on her way to Eliador. The statues you see "
 "before you are my gifts to her. Soon, I will acquire seven more statues."
 msgstr ""
+"Ja que ho vols saber, el meu cap està de camí cap ací. Les estàtues que pots "
+"veure davant teu són els meus regals a ella. Prompte tindre set estàtues més."
 
 #: Eliador/scenarios/eliador-varad.cfg:232
 msgid "We shall cut you into a thousand pieces for what you've done!"
-msgstr ""
+msgstr "Hauríem de tallar-te en mil trossos per tot el que has fet!"
 
 #: Eliador/scenarios/eliador-varad.cfg:237
 msgid ""
 "Ardella, I do not wish any harm on you. Zilead is a dear friend... Zara! "
 "Baringa! Echla!"
 msgstr ""
+"Ardella, no desitge fer-te cap mal. Zilead és un bon amic... Zara! Baringa! "
+"Echla!"
 
 #: Eliador/scenarios/eliador-varad.cfg:249
 msgid "Randalf, you swine! Where is Zilead? What have you done to him?"
-msgstr ""
+msgstr "Randalf, porc! On és Zilead? Què li haveu fet?"
 
 #: Eliador/scenarios/eliador-varad.cfg:254
 msgid ""
 "You have my word that Zilead is safe. That is all I am at liberty to divulge "
 "at the present time. Now please stay out of harms way!"
 msgstr ""
+"Tens la meua paraula que Zilead és sa i salvi. Això és tot el que puc dir "
+"ara mateix. Ara per favor mantin-te allunyada!"
 
 #: Eliador/scenarios/eliador-varad.cfg:259
 msgid ""
 "You'd better do as he says, Ardella. You are no match for a wizard. We will "
 "handle this."
 msgstr ""
+"Millor fes el que diu, Ardella. No eres rival per un bruixot, nosaltres ens "
+"encarregarem d'açò."
 
 #: Eliador/scenarios/eliador-varad.cfg:296
 msgid "Zara! Baringa! Echla!"
-msgstr ""
+msgstr "Zara! Baringa! Echla!"
 
 #: Eliador/scenarios/eliador-varad.cfg:327
 msgid ""
 "You have fought well against my birds, but you will not fare so well against "
 "my master's army."
 msgstr ""
+"Haveu lluitat be contra les meues aus, però no us anirà tan be contra "
+"l'exèrcit de la meua mestressa."
 
 #: Eliador/scenarios/eliador-varad.cfg:347
 msgid "Platu! Verata! Bichtu!"
-msgstr ""
+msgstr "Platu! Verata! Bichtu!"
 
 #: Eliador/scenarios/eliador-varad.cfg:352
 msgid ""
 "Now that I have freed you from the spell, go back to Zilead's territory. "
 "That is where the main invasion will take place."
 msgstr ""
+"Ara que ja t'he alliberat del sortilegi, torna al territori de Zilead. Allà "
+"és on la invasió més gran tindrà lloc."
 
 #: Eliador/units/Eliador_Cockatrice.cfg:4
 msgid "Eliador Cockatrice"
-msgstr ""
+msgstr "Basilisc d'Eliador"
 
 #: Eliador/units/Eliador_Cockatrice.cfg:17
 msgid "These cockatrices have a melee attack."
-msgstr ""
+msgstr "Aquestos basiliscs tenen un atac cos a cos."
 
 #: Eliador/units/Eliador_Horse.cfg:4
 msgid "Eliador Horse"
-msgstr ""
+msgstr "Cavall d'Eliador"
 
 #: Eliador/units/Eliador_Horse.cfg:18
 msgid "Horses do not have an attack."
-msgstr ""
+msgstr "Els cavalls no ataquen."
 
 #: Eliador/units/Eliador_Shark.cfg:4
 msgid "Eliador Shark"
-msgstr ""
+msgstr "Tauró d'Eliador"
 
 #: Eliador/units/Eliador_Shark.cfg:17
 msgid "Da-dum... Da-dum... Da-dum ..."
-msgstr ""
+msgstr "Da-dum... Da-dum... Da-dum ..."
 
 #: Eliador/units/Eliador_Witch.cfg:4
 msgid "Witch"
-msgstr ""
+msgstr "Bruixa"
 
 #: Eliador/units/Eliador_Witch.cfg:17
 msgid "A witch! Burn her!"
-msgstr ""
+msgstr "Un bruixa! Cremeu-la!"
 
 #: Eliador/units/Footpad_Toddler.cfg:4
 msgid "Footpad Toddler"
-msgstr ""
+msgstr "Xiquet"
 
 #: Eliador/units/Gryphon_Rider_Kid.cfg:4
 msgid "Eliador Gryphon Kid"
-msgstr ""
+msgstr "Xiqueta en griu"
 
 #: Eliador/units/Gryphon_Rider_Kid.cfg:18
 msgid "An outlaw princess kid riding a gryphon."
-msgstr ""
+msgstr "Una xiqueta muntada en un griu."
 
 #: Eliador/units/Gryphon_Rider_Queen.cfg:4
 msgid "Eliador Gryphon Queen"
-msgstr ""
+msgstr "Reïna en griu"
 
 #: Eliador/units/Gryphon_Rider_Queen.cfg:19
 msgid "Outlaw Queen riding a gryphon."
-msgstr ""
+msgstr "Una reïna proscrita muntada en un griu."
 
 #: Eliador/units/Gryphon_Rider_Toddler.cfg:4
 msgid "Eliador Gryphon Toddler"
-msgstr ""
+msgstr "Xiquet en griu"
 
 #: Eliador/units/Gryphon_Rider_Toddler.cfg:18
 msgid "A footpad toddler riding a gryphon."
-msgstr ""
+msgstr "Un xiquet muntat en un griu."
 
 #: Eliador/units/Gryphon_Small.cfg:4
 msgid "Eliador Small Gryphon"
-msgstr ""
+msgstr "Jove griu d'Eliador"
 
 #: Eliador/units/Gryphon_Small.cfg:18
 msgid "A small gryphon that has no attack."
-msgstr ""
+msgstr "Un jove griu que no ataca."
 
 #: Eliador/units/Kids_Sea_Serpent.cfg:4
 msgid "Kids Sea Serpent"
-msgstr ""
+msgstr "Serp marina amb xiquets"
 
 #: Eliador/units/Kids_Sea_Serpent.cfg:17
 msgid ""
 "A sea serpent with a footpad toddler and outlaw princess kid riding on its "
 "back."
-msgstr ""
+msgstr "Una serp marina amb dos xiquets muntats en la seua esquena."
 
 #: Eliador/units/Outlaw_Princess_Kid.cfg:4
 msgid "Outlaw Princess Kid"
-msgstr ""
+msgstr "Xiqueta "
