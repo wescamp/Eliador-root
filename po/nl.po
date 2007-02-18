@@ -3,42 +3,49 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-12 18:38+0100\n"
-"PO-Revision-Date: 2005-07-25 14:58+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2007-02-12 09:50+0100\n"
+"Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
+"Language-Team: none <foppe.benedictus@gmail.com>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
 
 #: Eliador.cfg:8 Eliador/scenarios/eliador-home.cfg:5
 msgid "Invasion of Eliador"
-msgstr ""
+msgstr "Invasie van Eliador"
 
 #: Eliador.cfg:11
 msgid " (Version"
-msgstr ""
+msgstr " (Versie"
 
 #: Eliador.cfg:11
+#, fuzzy
 msgid ""
 "A peaceful island is about to be invaded by unknown foes travelling towards "
 "the eastern shore. It is up to a family of outlaws to warn the island's "
 "inhabitants before it's too late."
 msgstr ""
+"Een vredig eiland staat op het punt binnengevallen te worden door onbekenden "
+"die richting de oostzijde varen. Taak "
 
 #: Eliador.cfg:16
 msgid ""
 "&footpad-toddler.png=Easy;*&outlaw-princess-kid.png=Medium;&neutral-outlaw-"
 "queen.png=Hard"
 msgstr ""
+"&footpad-toddler.png=Makkelijk;*&outlaw-princess-kid.png=Gemiddeld;&neutral-"
+"outlaw-queen.png=Moeilijk"
 
 #: Eliador/scenarios/eliador-anwar.cfg:5
 msgid "Caves of Anwar"
-msgstr ""
+msgstr "Grotten van Anwar"
 
 #: Eliador/scenarios/eliador-anwar.cfg:111
 msgid "Get kids close to monsters to recruit them"
-msgstr ""
+msgstr "Breng kinderen dicht bij de monsters om ze te rekruteren"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:149
 #: Eliador/scenarios/eliador-varad.cfg:116
@@ -60,7 +67,7 @@ msgstr "Overschrijding van het aantal beurten"
 #: Eliador/scenarios/eliador-sinon.cfg:209
 #: Eliador/scenarios/eliador-gold.cfg:101
 msgid "Death of Ardella, Anna or Zeke"
-msgstr ""
+msgstr "Dood van Ardella, Anna of Zeke"
 
 #: Eliador/scenarios/eliador-anwar.cfg:191
 msgid ""
@@ -70,7 +77,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-anwar.cfg:196
 msgid "But, mother, I'm scared! They'll kill us!"
-msgstr ""
+msgstr "Maar moeder, ik ben bang! Ze doden ons allemaal!"
 
 #: Eliador/scenarios/eliador-anwar.cfg:201
 msgid ""
@@ -92,11 +99,11 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-balas.cfg:5
 msgid "Prisoners of Balas"
-msgstr ""
+msgstr "Gevangenen van Balas"
 
 #: Eliador/scenarios/eliador-balas.cfg:93
 msgid "Hint: Don't listen to your mother"
-msgstr ""
+msgstr "Tip: Luister niet naar je moeder"
 
 #: Eliador/scenarios/eliador-balas.cfg:95
 msgid "Kill all enemies on the northeastern isle to free the prisoners."
@@ -188,7 +195,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-balas.cfg:396
 msgid "Bye!"
-msgstr ""
+msgstr "Tot ziens!"
 
 #: Eliador/scenarios/eliador-balas.cfg:402
 msgid ""
@@ -231,20 +238,20 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-glorienda.cfg:143
 msgid "Merith"
-msgstr ""
+msgstr "Merith"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:144
 msgid "Ilalya"
-msgstr ""
+msgstr "Ilalya"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:146
 #: Eliador/scenarios/eliador-glorienda.cfg:149
 msgid "Larien"
-msgstr ""
+msgstr "Larien"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:150
 msgid "Fawien"
-msgstr ""
+msgstr "Fawien"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:161
 msgid ""
@@ -470,20 +477,20 @@ msgstr ""
 #: Eliador/scenarios/eliador-kelroth.cfg:108
 #: Eliador/scenarios/eliador-home.cfg:466
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #: Eliador/scenarios/eliador-home.cfg:467
 msgid "Zilead"
-msgstr ""
+msgstr "Zilead"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:111
 #: Eliador/scenarios/eliador-home.cfg:468
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #: Eliador/scenarios/eliador-home.cfg:510
 msgid "Kill Ursula"
-msgstr ""
+msgstr "Dood Ursula"
 
 #: Eliador/scenarios/eliador-home.cfg:528
 msgid "Traverse all paths (move Ardella to signposts)"
@@ -499,7 +506,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-home.cfg:565
 msgid "Papa?"
-msgstr ""
+msgstr "Papa?"
 
 #: Eliador/scenarios/eliador-home.cfg:569
 msgid "Son, we must go home immediately."
@@ -694,7 +701,7 @@ msgstr ""
 #: Eliador/scenarios/eliador-varad.cfg:185
 #: Eliador/scenarios/eliador-illien.cfg:305
 msgid "Othello"
-msgstr ""
+msgstr "Othello"
 
 #: Eliador/scenarios/eliador-illien.cfg:772
 msgid ""
@@ -727,11 +734,11 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-illien.cfg:825
 msgid "Dragon 1A"
-msgstr ""
+msgstr "Draak 1A"
 
 #: Eliador/scenarios/eliador-illien.cfg:826
 msgid "Dragon 1B"
-msgstr ""
+msgstr "Draak 1B"
 
 #: Eliador/scenarios/eliador-illien.cfg:830
 msgid "Momma, what's happening? I can't move!"
@@ -739,7 +746,7 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-illien.cfg:871
 msgid "Ahh!"
-msgstr ""
+msgstr "Ahh!"
 
 #: Eliador/scenarios/eliador-illien.cfg:876
 msgid "Your move, Ardella."
@@ -747,19 +754,19 @@ msgstr ""
 
 #: Eliador/scenarios/eliador-kelroth.cfg:5
 msgid "Dol Kelroth"
-msgstr ""
+msgstr "Dol Kelroth"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:145
 msgid "Kill all enemies"
-msgstr ""
+msgstr "Dood alle vijanden"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:213
 msgid "Where is everyone?"
-msgstr ""
+msgstr "Waar is iedereen?"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:222
 msgid "Momma!"
-msgstr ""
+msgstr "Mammie!"
 
 #: Eliador/scenarios/eliador-kelroth.cfg:226
 msgid ""
@@ -997,7 +1004,7 @@ msgstr ""
 
 #: Eliador/units/Eliador_Witch.cfg:4
 msgid "Witch"
-msgstr ""
+msgstr "Heks"
 
 #: Eliador/units/Eliador_Witch.cfg:17
 msgid "A witch! Burn her!"
