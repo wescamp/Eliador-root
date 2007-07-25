@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-12 18:38+0100\n"
-"PO-Revision-Date: 2006-03-13 02:59+0100\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.1\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: Eliador.cfg:8 Eliador/scenarios/eliador-home.cfg:5
 msgid "Invasion of Eliador"
@@ -234,7 +234,7 @@ msgstr "Gloriendas alver"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:41
 msgid "Visit villages until turns run out"
-msgstr "Besök byar tills tiden tar slut"
+msgstr "Besök byar tills dragen tar slut"
 
 #: Eliador/scenarios/eliador-glorienda.cfg:65
 msgid "Momma, the bad men didn't take papa here!"
